@@ -21,37 +21,78 @@ author_profile: true
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<span class='anchor' id='-educations'></span>
 
-# 📝 Publications 
+# 📖 教育经历
+- *2022.06 - now*, 南京信息工程大学, 计算机科学与技术, 博士（硕博连读）. 
+- *2020.09 - 2022.06*, 南京信息工程大学, 软件工程, 硕士. 
+- *2016.09 - 2020.06*, 南京信息工程大学, 软件工程, 本科. 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<span class='anchor' id='-skills'></span>
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+# 🔥 技术优势
+### 科研能力
+1. 擅长Python编程，对绝大多数常用的数据分析库熟悉（numpy，pandas，scipy等）。
+2. 擅长Pytorch框架，熟悉PaddlePaddle框架。
+3. 熟悉Linux，能够编写Shell指令脚本。
+4. 熟悉深度学习、计算机视觉、群体智能等方向。
+5. 目前主要研究方向为神经网络结构搜索和神经网络压缩。
+6. 在团队中负责设备环境维护和配置，曾为本学院和金陵科技学院进行过高性能服务器设备维护。目前在负责学院高性能设备和AI MAX计算平台的相关维护工作
+7. 参与管道裂痕检测项目（使用对象检测，yolo-V5、faster rcnn）
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+### 开发能力
+1. 擅长JavaSE和JavaEE编程，有使用SWT、Swing、SSH框架的项目经验，对SSM和SpringBoot框架也比较熟悉。
+2. 擅长Python编程，有使用Selenium库爬取数据的项目经验，有使用Flask库在原有平台API基础上开发辅助平台相关经验。
+3. 熟悉C#，有使用Winform和ASP.NET的项目经验。
+4. 熟悉Android，能熟练使用Android Studio开发安卓软件。
+5. 掌握一定的数据库技术，能熟练使用SQL Server、MySQL等关系型数据库和Redis等非关系型数据库。
+6. 对VS Code，Pycharm，Idea，Visual Studio，MyEclipse/Eclipse，Android Studio等IDE比较熟悉。
+7. 编程习惯良好，代码规范，能运用设计模式，熟练使用Git进行版本控制和团队协作。
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+<span class='anchor' id='-achievements'></span>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# 📝 科研成果
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 📜 论文：Yu Xue, Pengcheng Jiang, Ferrnate Neri, Jiayu Liang. A Multi-Objective Evolutionary Approach Based on Graph-in-Graph for Neural Architecture Search of Convolutional Neural Networks[J]. International Journal of Neural Systems, 2021, 31(09): 2150035. DOI: 10.1142/S0129065721500350 (除老师外一作，SCI，2021年中科院一区TOP，JCR分区Q1，IF：6.325，被引次数42) [下载PDF]
+- 📜 论文：Pengcheng Jiang, Yu Xue, Ferrnate Neri. Continuously Evolving Dropout with Multi-objective Evolutionary Optimization[J]. Engineering Applications of Artificial Intelligence (2022年7月14日投稿，SCI，中科院二区，JCR分区Q1，IF：7.802) [录用后公开PDF]
+- 📜 论文：Pengcheng Jiang, Yu Xue, Jiayu Liang, Ujjwal Maulik. FSplugin: A Plugin for Simplifying Neural Network Classification Based on Feature Scaling[J]. IEEE Transactions on Neural Networks and Learning Systems (一审修改，Trans，SCI，中科院一区TOP，JCR分区Q1，IF：14.255) [录用后公开PDF]
+- 📜 论文：Pengcheng Jiang, Yu Xue, Ferrnate Neri. Convolutional Neural Networks Pruning Based on Multi-objective Feature Map Selection for Image Classification[J]. Knowledge-Based Systems (一审修改，SCI，中科院一区，JCR分区Q1，IF：8.139) [录用后公开PDF]
+- 📜 论文：Pengcheng Jiang, Yu Xue. A Distributed Secret Sharing Method with QR Code Based on Information Hiding[J]. Journal of Cyber Security, 2021, 3(4): 217-225. DOI: 10.32604/jcs.2021.026022 (英文外刊) [下载PDF]
+- 📰 软著：安全二维码生成系统V1.0（2021SR0885987） Show
+- 📜 论文：蒋鹏程,熊礼治,韩啸.一种基于内容保护与优化识别的二维码方案[J].软件导刊,2019,18(02):119-122. (中文SCD科学引文数据库) [下载PDF] [知网链接]
+- 📜 论文：韩啸,熊礼治,蒋鹏程,宋婷婷.一种密文图像安全性评价方案[J].计算机应用与软件,2019(03):148-153. (中文核心，被引次数4) [下载PDF] [知网链接]
+- 📑 专利：熊礼治,蒋鹏程,王乐,韩啸,汤琳俪,曹梦琦.一种基于精准定位和安全扫码的共享单车计费方法[P]. CN109242645A,2019-01-18. (除老师外一作) [下载PDF] [知网链接]
+- 📰 软著：一种密文图像安全性评价软件V1.0（2019SR0588758） Show
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-# Skills
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<span class='anchor' id='-projects'></span>
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💬 项目经历
+#### 2020年1月 ~ 2020年4月 电梯PDF订单和参数表提取处理程序（独立完成）
+**项目描述：**此项目为来自常州**有限公司的个人项目，内容为开发一个程序，使其能够从PDF文件格式的订单文件中，提取出分散的订单列表和详细信息，整合订单的配件参数，合并同参数订单，并插入配件的详细规格和图纸链接，最终生成处理好的Excel电子表格。
+
+#### 2017年4月 ~ 2019年4月 基于精准定位和安全扫码的共享单车计费系统（第一负责人）
+**项目描述：**此项目为大学生创新训练项目，内容为开发基于精准定位和安全扫码的共享单车计费系统。
+**责任描述：**在组内的职务为第一负责人，主要职责为对组员进行合理分工，负责组织项目成员和指导老师的讨论会、编写App主要功能代码、做好代码的联调，以及将研究成果成文并发表。
+
+#### 2018年8月 基于Python和Selenium的电影数据抓取和影评分析
+**项目描述：**此项目为内容为使用Python语言，开发基于Selenium工具的爬虫程序，实现电影数据抓取和和对数据进行分析处理。
+**责任描述：**职务为小组组长，主要职责为对小组成员进行合理调配，负责爬虫程序的编写和对数据库代码、数据统计代码的联调工作。
+
+#### 2018年12月 学生教务管理系统
+**项目描述：**此项目内容为编写教务管理系统，对学生信息、选课信息、学生成绩等内容进行管理。项目是基于.NET4.0平台写的，是使用C#语言编写的WinForm程序，数据库使用的是SQL Server。项目中使用了MVC结构，并合理使用了一些设计模式思想。项目中有对数据的加密处理和对数据的校验，功能比较完备，并能保证安全稳定运行。
+**责任描述：**职务为小组组长，主要职责为对组员进行合理分工、做好API接口的规范要求以及设定遵循设计模式的规范要求，负责定义各个接口、编写数据访问层和业务层代码，以及对整体程序进行联调。
+
+<span class='anchor' id='-awards'></span>
+
+# 🎖 获奖
+### 硕士期间
+- 2021年12月 南京信息工程大学“研究生优秀奖学金、学业奖学金” 一等奖 （3/68，<5%）
+- 2021年12月 南京信息工程大学“三好研究生” Show
+- 2020年12月 南京信息工程大学“研究生优秀新生奖学金、学业奖学金” 二等奖 Show
+
+### 本科期间
+- 2020年6月 南京信息工程大学“优秀毕业生” Show
+- 2016年9月~2020年6月 一次获院级“三好学生”、一次获校级”三好学生” Show
+- 2016年9月~2020年6月 多次获校级学业奖学金 Show
+- 2018年4月 第九届“蓝桥杯省级C/C++程序设计B组”二等奖 Show
+- 2017年11月 南京信息工程大学第八届程序设计大赛中荣获三等奖三等奖 Show

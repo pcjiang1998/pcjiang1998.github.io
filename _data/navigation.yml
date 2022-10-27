@@ -1,29 +1,22 @@
 # main links links
 main:
-  # - title: "About Me"
-  #   title_en: "AA"
-  #   url: "#about-me"
 
-  - title_en: "Educations"
+  - url: "#-educations"
+    title_en: "Educations"
     title_zh: "教育经历"
-    url: "#-educations"
 
-  - title_en: "News"
-    title_zh: "AA"
-    url: "#-news"
+  - url: "#-skills"
+    title_en: "Skills"
+    title_zh: "技术优势"
 
-  - title_en: "Publications"
-    title_zh: "AA"
-    url: "#-publications"
+  - url: "#-achievements" 
+    title_en: "Scientific Achievements"
+    title_zh: "科研成果"
 
-  - title_en: "Honors and Awards"
-    title_zh: "AA"
-    url: "#-honors-and-awards"
+  - url: "#-projects"
+    title_en: "Projects"
+    title_zh: "项目经历"
 
-  - title_en: "Invited Talks"
-    title_zh: "AA"
-    url: "#-invited-talks"
-
-  - title_en: "Internships"
-    title_zh: "AA"
-    url: "#-internships"
+  - url: "#-awards"
+    title_en: "Awards"
+    title_zh: "获奖"

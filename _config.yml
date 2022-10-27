@@ -6,8 +6,6 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "蒋鹏程 (Pengcheng Jiang)"
-description              : "Ph.D Student, Deep Learning, Computer Vision"
 repository               : "2985578957/2985578957.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -18,45 +16,6 @@ google_analytics_id      :  # get google_analytics_id from https://analytics.goo
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
-
-# Site Author
-author:
-  name             : "蒋鹏程 (Pengcheng Jiang)"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "School of Computer Science, Nanjing University of Information Science and Technology"
-  location         : "Nanjing, China"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=rruWd7UAAAAJ"
-  email            : "pcjiang@nuist.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Pengcheng-Jiang-3"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "2985578957"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-9625-697X"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
 
 # Reading Files

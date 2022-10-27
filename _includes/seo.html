@@ -8,14 +8,20 @@
   {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}
 {% endif %}
 
-<title>{{ site.title }} - Homepage</title>
+{% if page.url == "/zh" %}
+  {% assign profile = site.data.profile_zh %}
+{% else %}
+  {% assign profile = site.data.profile_en %}
+{% endif %}
 
-{% assign seo_description = page.description | default: page.excerpt | default: site.description %}
+<title>{{ profile.title }} - Homepage</title>
+
+{% assign seo_description = page.description | default: page.excerpt | default: profile.description %}
 {% if seo_description %}
   {% assign seo_description = seo_description | markdownify | strip_html | strip_newlines | escape_once %}
 {% endif %}
 
-{% assign seo_author = page.author | default: page.author[0] | default: site.author[0] %}
+{% assign seo_author = page.author | default: page.author[0] | default: profile.author[0] %}
 {% if seo_author %}
   {% if seo_author.twitter %}
     {% assign seo_author_twitter = seo_author.twitter %}
@@ -30,8 +36,8 @@
 {% endif %}
 
 <meta property="og:locale" content="en">
-<meta property="og:site_name" content="{{ site.title }}">
-<meta property="og:title" content="{{ site.title }}">
+<meta property="og:site_name" content="{{ profile.title }}">
+<meta property="og:title" content="{{ profile.title }}">
 
 {% if seo_url %}
   <link rel="canonical" href="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
@@ -44,7 +50,7 @@
 
 {% if site.twitter.username %}
   <meta name="twitter:site" content="@{{ site.twitter.username | replace: "@", "" }}">
-  <meta name="twitter:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
+  <meta name="twitter:title" content="{{ page.title | default: profile.title | markdownify | strip_html | strip_newlines | escape_once }}">
   <meta name="twitter:description" content="{{ seo_description }}">
   <meta name="twitter:url" content="{{ canonical_url }}">
 

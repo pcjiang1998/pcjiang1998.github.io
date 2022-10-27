@@ -5,25 +5,25 @@ main:
   #   url: "#about-me"
 
   - title_en: "Educations"
-    title_en: "教育经历"
+    title_zh: "教育经历"
     url: "#-educations"
 
   - title_en: "News"
-    title_en: "AA"
+    title_zh: "AA"
     url: "#-news"
 
   - title_en: "Publications"
-    title_en: "AA"
+    title_zh: "AA"
     url: "#-publications"
 
   - title_en: "Honors and Awards"
-    title_en: "AA"
+    title_zh: "AA"
     url: "#-honors-and-awards"
 
   - title_en: "Invited Talks"
-    title_en: "AA"
+    title_zh: "AA"
     url: "#-invited-talks"
 
   - title_en: "Internships"
-    title_en: "AA"
+    title_zh: "AA"
     url: "#-internships"

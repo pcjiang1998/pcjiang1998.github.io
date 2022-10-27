@@ -10,7 +10,7 @@ layout: compress
   </head>
 
   <body>
-
+    {{page.url}}
     {% include browser-upgrade.html %}
     {% if page.url | find_exp:"zh" %}
     {% include masthead_zh.html %}

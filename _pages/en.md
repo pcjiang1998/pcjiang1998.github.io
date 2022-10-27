@@ -1,10 +1,9 @@
 ---
-permalink: /
+permalink: /en
 title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /en/
   - /en.html
 ---
 

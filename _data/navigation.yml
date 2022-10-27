@@ -1,24 +1,29 @@
 # main links links
 main:
   # - title: "About Me"
-  #   url: "/#about-me"
+  #   title_en: "AA"
+  #   url: "#about-me"
 
   - title_en: "Educations"
-    url: "/#-educations"
+    title_en: "教育经历"
+    url: "#-educations"
 
   - title_en: "News"
-    url: "/#-news"
+    title_en: "AA"
+    url: "#-news"
 
   - title_en: "Publications"
-    url: "/#-publications"
+    title_en: "AA"
+    url: "#-publications"
 
   - title_en: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
-
+    title_en: "AA"
+    url: "#-honors-and-awards"
 
   - title_en: "Invited Talks"
-    url: "/#-invited-talks"
+    title_en: "AA"
+    url: "#-invited-talks"
 
   - title_en: "Internships"
-    url: "/#-internships"
+    title_en: "AA"
+    url: "#-internships"

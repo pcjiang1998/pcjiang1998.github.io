@@ -12,7 +12,11 @@ layout: compress
   <body>
 
     {% include browser-upgrade.html %}
-    {% include masthead.html %}
+    {% if page.url | find_exp:"zh" %}
+    {% include masthead_zh.html %}
+    {% else %}
+    {% include masthead_en.html %}
+    {% endif %}
 
     <div id="main" role="main">
       {% include sidebar.html %}

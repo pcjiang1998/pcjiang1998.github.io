@@ -3,6 +3,8 @@ permalink: /zh
 title: ""
 excerpt: ""
 author_profile: true
+# redirect_from: 
+#   - /zh.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}

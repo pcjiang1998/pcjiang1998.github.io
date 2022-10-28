@@ -1,5 +1,8 @@
 # main links links
 main:
+  - url: "#about-me"
+    title_en: "About me"
+    title_zh: "自我评价"
 
   - url: "#-educations"
     title_en: "Educations"

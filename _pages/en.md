@@ -22,6 +22,8 @@ I am currently studying for **Ph.D degree (successive postgraduate and doctoral 
 
 My research direction is **Evolutionary Deep Learning**, mainly including **Neural architecture search (NAS)** and **Network Pruning**.
 
+Github: [pcjiang1998](https://github.com/pcjiang1998)
+
 <span class='anchor' id='-educations'></span>
 
 # 📖 Educations
@@ -54,10 +56,10 @@ My research direction is **Evolutionary Deep Learning**, mainly including **Neur
 
 <span class='anchor' id='-achievements'></span>
 
-# 📝 Scientific Achievements (Updated on 2023/03/19)
+# 📝 Scientific Achievements [[Google Scholar]](https://scholar.google.com/citations?user=rruWd7UAAAAJ) (Updated on 2023/03/25)
 
 - 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrnate Neri, “Convolutional neural network pruning based on multi-objective feature map selection for image classification,” *Applied Soft Computing*, p. 110229, 2023. **(2023 \| SCI \| CAS 2st Region TOP (2022) \| JCR Q1 \| IF: 8.263)**[[Download PDF]](http://dl.jiangpengcheng.top/cv_files/1-s2.0-S1568494623002478-main.pdf)
-- 📜 **Paper:** Yu Xue, **Pengcheng Jiang**, Ferrnate Neri, Jiayu Liang, "A multi-objective evolutionary approach based on Graph-in-Graph for neural architecture search of convolutional neural networks,". *International Journal of Neural Systems*, vol. 31, no. 09, p. 2150035, 2021, [DOI: 10.1142/S0129065721500350](https://doi.org/10.1142/S0129065721500350). **(First author except teacher \| SCI \| CAS 1st Region TOP (2020) \| JCR Q1 \| IF: 6.325 \| Cited: 54)**[[Download PDF]](http://dl.jiangpengcheng.top/cv_files/s0129065721500350.pdf)
+- 📜 **Paper:** Yu Xue, **Pengcheng Jiang**, Ferrnate Neri, Jiayu Liang, "A multi-objective evolutionary approach based on Graph-in-Graph for neural architecture search of convolutional neural networks,". *International Journal of Neural Systems*, vol. 31, no. 09, p. 2150035, 2021, [DOI: 10.1142/S0129065721500350](https://doi.org/10.1142/S0129065721500350). **(First author except teacher \| SCI \| CAS 1st Region TOP (2020) \| JCR Q1 \| IF: 6.325 \| Cited: 65)**[[Download PDF]](http://dl.jiangpengcheng.top/cv_files/s0129065721500350.pdf)
 - 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrnate Neri, "Continuously evolving Dropout with multi-objective evolutionary optimization,". *Engineering Applications of Artificial Intelligence* **(Second review on Nov. 21, 2022 \| 2022 \| SCI \| CAS 2st Region TOP (2022) \| JCR Q1 \| IF: 7.802)** [[Open PDF after acceptance]]()
 - 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Jiayu Liang, Ujjwal Maulik, "FSplugin: A plugin for simplifying neural network classification based on feature scaling,". *IEEE Transactions on Neural Networks and Learning Systems* **(Re-submited under review on Mar. 21, 2023 \| Trans \| SCI \| CAS 1st Region TOP (2022) \| JCR Q1 \| IF: 14.255)**[[Open PDF after acceptance]]()
 - 📜 **Paper:** Yu Xue, **Pengcheng Jiang**, Ferrnate Neri, Ziming Yuan,"CoAM: Confidence Attention Module for Deep Convolutional,". *IEEE Transactions on Circuits and Systems for Video Technology* **(Submitted on Mar. 25, 2023 \| Trans \| SCI \| CAS 1st Region TOP (2022) \| JCR Q1 \| IF: 11.041)**[[Open PDF after acceptance]]()

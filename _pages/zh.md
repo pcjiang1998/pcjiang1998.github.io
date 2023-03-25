@@ -22,6 +22,8 @@ redirect_from:
 
 本人研究方向为**演化深度学习** (Evolutionary Deep Learning)，主要包括**神经网络架构搜索** (Neural architecture search，NAS) 和**网络剪枝**(Network Pruning)。
 
+Github: [pcjiang1998](https://github.com/pcjiang1998)
+
 <span class='anchor' id='-educations'></span>
 
 # 📖 教育经历
@@ -53,10 +55,10 @@ redirect_from:
 
 <span class='anchor' id='-achievements'></span>
 
-# 📝 科研成果（更新于2023/03/19）
+# 📝 科研成果[[Google Scholar]](https://scholar.google.com/citations?user=rruWd7UAAAAJ)（更新于2023/03/25）
 
 - 📜 **论文：****Pengcheng Jiang**, Yu Xue, Ferrnate Neri. Convolutional neural network pruning based on multi-objective feature map selection for image classification[J]. *Applied Soft Computing*, 2023: 110229. [DOI: 10.1016/j.asoc.2023.110229](https://doi.org/10.1016/j.asoc.2023.110229) **(SCI，中科院二区TOP，JCR分区Q1，IF：8.263)**[[下载PDF]](http://dl.jiangpengcheng.top/cv_files/1-s2.0-S1568494623002478-main.pdf)
-- 📜 **论文：**Yu Xue, **Pengcheng Jiang**, Ferrnate Neri, Jiayu Liang. A multi-objective evolutionary approach based on Graph-in-Graph for neural architecture search of convolutional neural networks[J]. *International Journal of Neural Systems*, 2021, 31(09): 2150035. [DOI: 10.1142/S0129065721500350](https://doi.org/10.1142/S0129065721500350) **(除老师外一作，SCI，2020年中科院一区TOP，JCR分区Q1，IF：6.325，被引次数54)**[[下载PDF]](http://dl.jiangpengcheng.top/cv_files/s0129065721500350.pdf)
+- 📜 **论文：**Yu Xue, **Pengcheng Jiang**, Ferrnate Neri, Jiayu Liang. A multi-objective evolutionary approach based on Graph-in-Graph for neural architecture search of convolutional neural networks[J]. *International Journal of Neural Systems*, 2021, 31(09): 2150035. [DOI: 10.1142/S0129065721500350](https://doi.org/10.1142/S0129065721500350) **(除老师外一作，SCI，2020年中科院一区TOP，JCR分区Q1，IF：6.325，被引次数65)**[[下载PDF]](http://dl.jiangpengcheng.top/cv_files/s0129065721500350.pdf)
 - 📜 **论文：****Pengcheng Jiang**, Yu Xue, Ferrnate Neri. Continuously evolving Dropout with multi-objective evolutionary optimization[J]. *Engineering Applications of Artificial Intelligence* **(2022年11月21日二审，SCI，中科院二区TOP，CCF评级C，JCR分区Q1，IF：7.802)** [[录用后公开PDF]]()
 - 📜 **论文：****Pengcheng Jiang**, Yu Xue, Jiayu Liang, Ujjwal Maulik. FSplugin: A plugin for simplifying neural network classification based on feature scaling[J]. *IEEE Transactions on Neural Networks and Learning Systems* **(2023年3月21日重投在审，Trans，SCI，中科院一区TOP，CCF评级B，JCR分区Q1，IF：14.255)** [[录用后公开PDF]]()
 - 📜 **论文:** Yu Xue, **Pengcheng Jiang**, Ferrnate Neri, Ziming Yuan,"CoAM: Confidence Attention Module for Deep Convolutional,". *IEEE Transactions on Circuits and Systems for Video Technology* **(2023年3月25号投稿在审，Trans，SCI，中科院一区TOP，CCF评级B，JCR分区Q1，IF: 5.859)**[[录用后公开PDF]]()

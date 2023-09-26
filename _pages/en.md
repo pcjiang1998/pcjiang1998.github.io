@@ -35,11 +35,11 @@ My research direction is **Evolutionary Deep Learning**, mainly including **Neur
 ### Scientific research ability
 
 1. Skilled in **Python** programming, familiar with most commonly used data analysis libraries, including **numpy**, **pandas**, **scipy**, etc.
-2. Good at **Pytorch** framework and familiar with **PaddlePaddle** framework.
+2. Good at **Pytorch** framework and familiar with **PaddlePaddle** and **Tensorflow** framework.
 3. Familiar with **Linux** and able to write **Shell** instructions and scripts.
 4. Familiar with **deep learning**, **computer vision**, **swarm intelligence**, etc.
 5. Interests include **neural architecture search (NAS)** and **neural network compression**.
-6. Responsible for **equipment maintenance and configuration** in the team, and once **performed high-performance server equipment maintenance** for Jinling Institute of Technology. Also responsible for the maintenance of **high performance equipment** and **AI MAX computing platform** of the college
+6. Responsible for **equipment maintenance and configuration** in the team, and once **performed high-performance server equipment maintenance** for "School of Computer Engineering, Jinling Institute of Technology". Also responsible for the maintenance of **high performance equipment** and **AI MAX computing platform** for "School of Computer Science, NUIST"
 7. Participate in **pipeline crack detection** project (using **object detection**, **yolo-V5** and **faster rcnn**)
 
 ### Development ability
@@ -54,13 +54,14 @@ My research direction is **Evolutionary Deep Learning**, mainly including **Neur
 
 <span class='anchor' id='-achievements'></span>
 
-# 📝 Scientific Achievements (Updated on 2023/06/07)
+# 📝 Scientific Achievements (Updated on 2023/09/27)
 
 - 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrnate Neri, "Continuously evolving Dropout with multi-objective evolutionary optimization,". *Engineering Applications of Artificial Intelligence*, vol. 124, p. 106504, 2023, [DOI: 10.1016/j.engappai.2023.106504](https://doi.org/10.1016/j.engappai.2023.106504). **(SCI \| CAS 2st Region TOP (2022) \| JCR Q1 \| IF: 7.802)** [[Download PDF]](http://42.192.94.151/cv_files/1-s2.0-S0952197623006887-main.pdf)
 - 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrnate Neri, “Convolutional neural network pruning based on multi-objective feature map selection for image classification,” *Applied Soft Computing*, p. 110229, 2023, [DOI: 10.1016/10.1016/j.asoc.2023.110229](https://doi.org/10.1016/j.asoc.2023.110229). **(SCI \| CAS 2st Region TOP (2022) \| JCR Q1 \| IF: 8.263)**[[Download PDF]](http://42.192.94.151/cv_files/1-s2.0-S1568494623002478-main.pdf)
 - 📜 **Paper:** Yu Xue, **Pengcheng Jiang**, Ferrnate Neri, Jiayu Liang, "A multi-objective evolutionary approach based on Graph-in-Graph for neural architecture search of convolutional neural networks,". *International Journal of Neural Systems*, vol. 31, no. 09, p. 2150035, 2021, [DOI: 10.1142/S0129065721500350](https://doi.org/10.1142/S0129065721500350). **(First author except teacher \| SCI \| CAS 1st Region TOP (2020) \| JCR Q1 \| IF: 6.325 \| Cited: 69)**[[Download PDF]](http://42.192.94.151/cv_files/s0129065721500350.pdf)
-- 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Jiayu Liang, Ujjwal Maulik, "FSplugin: A plugin for simplifying neural network classification based on feature scaling,". *IEEE Transactions on Neural Networks and Learning Systems* **(Re-submited under review on Mar. 21, 2023 \| Trans \| SCI \| CAS 1st Region TOP (2022) \| JCR Q1 \| IF: 14.255)**[[Open PDF after acceptance]]()
-- 📜 **Paper:** Yu Xue, **Pengcheng Jiang**, Ferrnate Neri, Ziming Yuan,"CoAM: Confidence Attention Module for Deep Convolutional,". *IEEE Transactions on Circuits and Systems for Video Technology* **(Submitted on Mar. 25, 2023 \| Trans \| SCI \| CAS 1st Region TOP (2022) \| JCR Q1 \| IF: 11.041)**[[Open PDF after acceptance]]()
+- 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrnate Neri,"Score predictor-assisted evolutionary neural architecture search,". *IEEE Transactions on Emerging Topics in Computational Intelligence* **(Under modification)**[[Open PDF after acceptance]]()
+- 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Danilo Pelusi, Jiayu Liang, Ujjwal Maulik, "FS-plugin: A method for training neural network with feature scaling and selection,". *IEEE Transactions on Knowledge and Data Engineering* **(Submited under review on Sep. 24, 2023 \| Trans \| SCI \| CAS 2nd Region TOP (2022) \| JCR Q1 \| IF: 8.9)**[[Open PDF after acceptance]]()
+- 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrnate Neri, Ziming Yuan,"CoAM: Confidence Attention Module for Deep Convolutional,". **(Under modification)**[[Open PDF after acceptance]]()
 - 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, "A distributed secret sharing method with QR code based on information hiding,". *Journal of Cyber Security*, vol. 3, no.4, pp. 217-225, 2021, [DOI: 10.32604/jcs.2021.026022](https://doi.org/10.32604/jcs.2021.026022). **(English Publications)** [[Download PDF]](http://42.192.94.151/cv_files/03.pdf)
 - 📰 **Software (ZH):** 安全二维码生成系统V1.0（2021SR0885987）
 - 📜 **Paper (ZH):** **蒋鹏程**,熊礼治,韩啸.一种基于内容保护与优化识别的二维码方案[J].*软件导刊*,2019,18(02):119-122. **(SCD)** [[Download PDF]](http://42.192.94.151/cv_files/02.pdf) [[CNKI Link]](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?sfield=fn&QueryID=0&CurRec=1&recid=&FileName=RJDK201902031&DbName=CJFDLAST2019)
@@ -92,12 +93,15 @@ My research direction is **Evolutionary Deep Learning**, mainly including **Neur
 <span class='anchor' id='-awards'></span>
 
 # 🎖 Awards
-### During the period of master
+### During the period of Ph.D
+- *2022.11*, NUIST "Scholarship for Outstanding freshmen and academic scholarship" **2nd prize**
+
+### During the period of M.Sc
 - *2021.12*, NUIST "Excellent Scholarship for Graduate Students and Academic Scholarship" **1st prize** **(3/68, <5%)**
 - *2021.12*, NUIST "Merit Graduate Student"
 - *2020.12*, NUIST "Scholarship for Outstanding freshmen and academic scholarship" **2nd prize**
 
-### During the period of undergraduate
+### During the period of B.Eng
 - *2020.06*, NUIST "Outstanding Graduate"
 - *2016.09 ~ 2020.06*, "Merit Student" at **College level** once and at **University level** once.
 - *2016.09 ~ 2020.06*, Academic Scholarships of University for many times.

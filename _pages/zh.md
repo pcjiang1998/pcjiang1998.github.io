@@ -34,11 +34,11 @@ redirect_from:
 # 🔥 技术优势
 ### 科研能力
 1. 擅长**Python**编程，对绝大多数常用的数据分析库熟悉（**numpy**，**pandas**，**scipy**等）。
-2. 擅长**Pytorch**框架，熟悉**PaddlePaddle**框架。
+2. 擅长**Pytorch**框架，熟悉**PaddlePaddle**，**Tensorflow**框架。
 3. 熟悉**Linux**，能够编写**Shell**指令脚本。
 4. 熟悉**深度学习**、**计算机视觉**、**群体智能**等方向。
 5. 目前主要研究方向为**演化深度学习**，包括**神经网络结构搜索**和**神经网络压缩**。
-6. 在团队中负责设备环境维护和配置，曾为本学院和金陵科技学院进行过**高性能服务器**设备维护。目前在负责学院**高性能设备**和**AI MAX计算平台**的相关**维护**工作
+6. 在团队中负责设备环境维护和配置，曾为“南京信息工程大学计算机学院”和“金陵科技学院计算机工程学院”进行过**高性能服务器**设备维护。目前在负责学院**高性能设备**和**AI MAX计算平台**的相关**维护**工作
 7. 参与**管道裂痕检测**项目（使用**对象检测**，**yolo-V5**、**faster rcnn**）
 
 ### 开发能力
@@ -53,13 +53,14 @@ redirect_from:
 
 <span class='anchor' id='-achievements'></span>
 
-# 📝 科研成果（更新于2023/06/07）
+# 📝 科研成果（更新于2023/09/27）
 
 - 📜 **论文：****Pengcheng Jiang**, Yu Xue, Ferrnate Neri. Continuously evolving dropout with multi-objective evolutionary optimisation[J]. *Engineering Applications of Artificial Intelligence*, 2023, 124: 106504. [DOI: 10.1016/j.engappai.2023.106504](https://doi.org/10.1016/j.engappai.2023.106504) **(SCI，中科院二区TOP，CCF评级C，JCR分区Q1，IF：7.802)** [[下载PDF]](http://42.192.94.151/cv_files/1-s2.0-S0952197623006887-main.pdf)
 - 📜 **论文：****Pengcheng Jiang**, Yu Xue, Ferrnate Neri. Convolutional neural network pruning based on multi-objective feature map selection for image classification[J]. *Applied Soft Computing*, 2023: 110229. [DOI: 10.1016/j.asoc.2023.110229](https://doi.org/10.1016/j.asoc.2023.110229) **(SCI，中科院二区TOP，JCR分区Q1，IF：8.263)**[[下载PDF]](http://42.192.94.151/cv_files/1-s2.0-S1568494623002478-main.pdf)
 - 📜 **论文：**Yu Xue, **Pengcheng Jiang**, Ferrnate Neri, Jiayu Liang. A multi-objective evolutionary approach based on Graph-in-Graph for neural architecture search of convolutional neural networks[J]. *International Journal of Neural Systems*, 2021, 31(09): 2150035. [DOI: 10.1142/S0129065721500350](https://doi.org/10.1142/S0129065721500350) **(除老师外一作，SCI，2020年中科院一区TOP，JCR分区Q1，IF：6.325，被引次数69)**[[下载PDF]](http://42.192.94.151/cv_files/s0129065721500350.pdf)
-- 📜 **论文：****Pengcheng Jiang**, Yu Xue, Jiayu Liang, Ujjwal Maulik. FSplugin: A plugin for simplifying neural network classification based on feature scaling[J]. *IEEE Transactions on Neural Networks and Learning Systems* **(2023年3月21日重投在审，Trans，SCI，中科院一区TOP，CCF评级B，JCR分区Q1，IF：14.255)** [[录用后公开PDF]]()
-- 📜 **论文:** Yu Xue, **Pengcheng Jiang**, Ferrnate Neri, Ziming Yuan,"CoAM: Confidence Attention Module for Deep Convolutional,". *IEEE Transactions on Circuits and Systems for Video Technology* **(2023年3月25号投稿在审，Trans，SCI，中科院一区TOP，CCF评级B，JCR分区Q1，IF: 5.859)**[[录用后公开PDF]]()
+- 📜 **论文：****Pengcheng Jiang**, Yu Xue, Ferrnate Neri. Score predictor-assisted evolutionary neural architecture search[J]. *IEEE Transactions on Emerging Topics in Computational Intelligence* **(2023年8月10日投稿在审，Trans，SCI，中科二区，JCR分区Q1，IF：5.3)**[[录用后公开PDF]]()
+- 📜 **论文：****Pengcheng Jiang**, Yu Xue, Danilo Pelusi, Jiayu Liang, Ujjwal Maulik. FS-plugin: A method for training neural network with feature scaling and selection[J]. *IEEE Transactions on Knowledge and Data Engineering* **(2023年9月24日投稿在审，Trans，SCI，中科二区，CCF评级A，JCR分区Q1，IF：8.9)** [[录用后公开PDF]]()
+- 📜 **论文:** Yu Xue, **Pengcheng Jiang**, Ferrnate Neri, Ziming Yuan,"CoAM: Confidence Attention Module for Deep Convolutional,". **(修改中)**[[录用后公开PDF]]()
 - 📜 **论文：****Pengcheng Jiang**, Yu Xue. A distributed secret sharing method with QR code based on information hiding[J]. *Journal of Cyber Security*, 2021, 3(4): 217-225. [DOI: 10.32604/jcs.2021.026022](https://doi.org/10.32604/jcs.2021.026022) **(英文外刊)** [[下载PDF]](http://42.192.94.151/cv_files/03.pdf)
 - 📰 **软著：**安全二维码生成系统V1.0（2021SR0885987）
 - 📜 **论文：****蒋鹏程**,熊礼治,韩啸.一种基于内容保护与优化识别的二维码方案[J].*软件导刊*,2019,18(02):119-122. **(中文SCD科学引文数据库)** [[下载PDF]](http://42.192.94.151/cv_files/02.pdf) [[知网链接]](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?sfield=fn&QueryID=0&CurRec=1&recid=&FileName=RJDK201902031&DbName=CJFDLAST2019)
@@ -91,6 +92,9 @@ redirect_from:
 <span class='anchor' id='-awards'></span>
 
 # 🎖 获奖
+### 博士期间
+- *2022.11* 南京信息工程大学“研究生优秀新生奖学金、学业奖学金” **二等奖**
+
 ### 硕士期间
 - *2021.12* 南京信息工程大学“研究生优秀奖学金、学业奖学金” **一等奖** **（3/68，<5%）**
 - *2021.12* 南京信息工程大学“**三好研究生**”

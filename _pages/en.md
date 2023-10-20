@@ -54,13 +54,13 @@ My research direction is **Evolutionary Deep Learning**, mainly including **Neur
 
 <span class='anchor' id='-achievements'></span>
 
-# 📝 Scientific Achievements (Updated on 2023/09/27)
+# 📝 Scientific Achievements (Updated on 2023/10/20)
 
 - 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrnate Neri, "Continuously evolving Dropout with multi-objective evolutionary optimization,". *Engineering Applications of Artificial Intelligence*, vol. 124, p. 106504, 2023, [DOI: 10.1016/j.engappai.2023.106504](https://doi.org/10.1016/j.engappai.2023.106504). **(SCI \| CAS 2st Region TOP (2022) \| JCR Q1 \| IF: 7.802)** [[Download PDF]](http://42.192.94.151/cv_files/1-s2.0-S0952197623006887-main.pdf)
-- 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrnate Neri, “Convolutional neural network pruning based on multi-objective feature map selection for image classification,” *Applied Soft Computing*, p. 110229, 2023, [DOI: 10.1016/10.1016/j.asoc.2023.110229](https://doi.org/10.1016/j.asoc.2023.110229). **(SCI \| CAS 2st Region TOP (2022) \| JCR Q1 \| IF: 8.263)**[[Download PDF]](http://42.192.94.151/cv_files/1-s2.0-S1568494623002478-main.pdf)
-- 📜 **Paper:** Yu Xue, **Pengcheng Jiang**, Ferrnate Neri, Jiayu Liang, "A multi-objective evolutionary approach based on Graph-in-Graph for neural architecture search of convolutional neural networks,". *International Journal of Neural Systems*, vol. 31, no. 09, p. 2150035, 2021, [DOI: 10.1142/S0129065721500350](https://doi.org/10.1142/S0129065721500350). **(First author except teacher \| SCI \| CAS 1st Region TOP (2020) \| JCR Q1 \| IF: 6.325 \| Cited: 69)**[[Download PDF]](http://42.192.94.151/cv_files/s0129065721500350.pdf)
+- 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrnate Neri, “Convolutional neural network pruning based on multi-objective feature map selection for image classification,” *Applied Soft Computing*, p. 110229, 2023, [DOI: 10.1016/10.1016/j.asoc.2023.110229](https://doi.org/10.1016/j.asoc.2023.110229). **(SCI \| CAS 2st Region TOP (2022) \| JCR Q1 \| IF: 8.263 \| Cited: 2)**[[Download PDF]](http://42.192.94.151/cv_files/1-s2.0-S1568494623002478-main.pdf)
+- 📜 **Paper:** Yu Xue, **Pengcheng Jiang**, Ferrnate Neri, Jiayu Liang, "A multi-objective evolutionary approach based on Graph-in-Graph for neural architecture search of convolutional neural networks,". *International Journal of Neural Systems*, vol. 31, no. 09, p. 2150035, 2021, [DOI: 10.1142/S0129065721500350](https://doi.org/10.1142/S0129065721500350). **(First author except teacher \| SCI \| CAS 1st Region TOP (2020) \| JCR Q1 \| IF: 6.325 \| Cited: 84)**[[Download PDF]](http://42.192.94.151/cv_files/s0129065721500350.pdf)
 - 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrnate Neri,"Score predictor-assisted evolutionary neural architecture search,". *IEEE Transactions on Emerging Topics in Computational Intelligence* **(Submited under review on Aug. 10, 2023 \| Trans \| SCI \| CAS 2nd Region (2022) \| JCR Q1 \| IF: 5.3)**[[Open PDF after acceptance]]()
-- 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Danilo Pelusi, Jiayu Liang, Ujjwal Maulik, "FS-plugin: A method for training neural network with feature scaling and selection,". *IEEE Transactions on Knowledge and Data Engineering* **(Submited under review on Sep. 24, 2023 \| Trans \| SCI \| CAS 2nd Region (2022) \| JCR Q1 \| IF: 8.9)**[[Open PDF after acceptance]]()
+- 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Danilo Pelusi, Jiayu Liang, Ujjwal Maulik, "Feature scaling and selection for training neural network,". *IEEE Transactions on Industrial Informatics* **(Submited under review on Oct. 20, 2023 \| Trans \| SCI \| CAS 1st Region (2022) \| JCR Q1 \| IF: 12.3)**[[Open PDF after acceptance]]()
 - 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrnate Neri, Ziming Yuan,"CoAM: Confidence Attention Module for Deep Convolutional,". **(Under modification)**[[Open PDF after acceptance]]()
 - 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, "A distributed secret sharing method with QR code based on information hiding,". *Journal of Cyber Security*, vol. 3, no.4, pp. 217-225, 2021, [DOI: 10.32604/jcs.2021.026022](https://doi.org/10.32604/jcs.2021.026022). **(English Publications)** [[Download PDF]](http://42.192.94.151/cv_files/03.pdf)
 - 📰 **Software (ZH):** 安全二维码生成系统V1.0（2021SR0885987）
@@ -68,6 +68,14 @@ My research direction is **Evolutionary Deep Learning**, mainly including **Neur
 - 📜 **Paper (ZH):** 韩啸,熊礼治,**蒋鹏程**,宋婷婷.一种密文图像安全性评价方案[J].*计算机应用与软件*,2019(03):148-153. **(PKU \| SCD \| Cited: 4)** [[Download PDF]](http://42.192.94.151/cv_files/01.pdf) [[CNKI Link]](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?sfield=fn&QueryID=12&CurRec=1&recid=&FileName=JYRJ201903029&DbName=CJFDLAST2019)
 - 📑 **Patent (ZH):** 熊礼治,**蒋鹏程**,王乐,韩啸,汤琳俪,曹梦琦.一种基于精准定位和安全扫码的共享单车计费方法[P]. CN109242645A,2019-01-18. **(First author except teacher)** [[Download PDF]](http://42.192.94.151/cv_files/00.pdf) [[CNKI Link]](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?sfield=fn&QueryID=33&CurRec=1&DBCode=SCPD&dbname=SCPD201901&filename=CN109242645A)
 - 📰 **Software (ZH):** 一种密文图像安全性评价软件V1.0（2019SR0588758）
+
+<span class='anchor' id='-services'></span>
+
+# 📌 Services
+Served as a reviewer for the following journals:
+- 📙 Information Sciences (SCIE, IF:8.1)
+- 📙 PeerJ Computer Science (SCIE, IF:3.8)
+- 📙 Computers, Materials & Continua (SCIE, IF:3.1)
 
 <span class='anchor' id='-projects'></span>
 

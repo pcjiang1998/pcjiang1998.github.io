@@ -53,13 +53,13 @@ redirect_from:
 
 <span class='anchor' id='-achievements'></span>
 
-# 📝 科研成果（更新于2023/09/27）
+# 📝 科研成果（更新于2023/10/20）
 
-- 📜 **论文：****Pengcheng Jiang**, Yu Xue, Ferrnate Neri. Continuously evolving dropout with multi-objective evolutionary optimisation[J]. *Engineering Applications of Artificial Intelligence*, 2023, 124: 106504. [DOI: 10.1016/j.engappai.2023.106504](https://doi.org/10.1016/j.engappai.2023.106504) **(SCI，中科院二区TOP，CCF评级C，JCR分区Q1，IF：7.802)** [[下载PDF]](http://42.192.94.151/cv_files/1-s2.0-S0952197623006887-main.pdf)
-- 📜 **论文：****Pengcheng Jiang**, Yu Xue, Ferrnate Neri. Convolutional neural network pruning based on multi-objective feature map selection for image classification[J]. *Applied Soft Computing*, 2023: 110229. [DOI: 10.1016/j.asoc.2023.110229](https://doi.org/10.1016/j.asoc.2023.110229) **(SCI，中科院二区TOP，JCR分区Q1，IF：8.263)**[[下载PDF]](http://42.192.94.151/cv_files/1-s2.0-S1568494623002478-main.pdf)
-- 📜 **论文：**Yu Xue, **Pengcheng Jiang**, Ferrnate Neri, Jiayu Liang. A multi-objective evolutionary approach based on Graph-in-Graph for neural architecture search of convolutional neural networks[J]. *International Journal of Neural Systems*, 2021, 31(09): 2150035. [DOI: 10.1142/S0129065721500350](https://doi.org/10.1142/S0129065721500350) **(除老师外一作，SCI，2020年中科院一区TOP，JCR分区Q1，IF：6.325，被引次数69)**[[下载PDF]](http://42.192.94.151/cv_files/s0129065721500350.pdf)
+- 📜 **论文：****Pengcheng Jiang**, Yu Xue, Ferrnate Neri. Continuously evolving dropout with multi-objective evolutionary optimisation[J]. *Engineering Applications of Artificial Intelligence*, 2023, 124: 106504. [DOI: 10.1016/j.engappai.2023.106504](https://doi.org/10.1016/j.engappai.2023.106504) **(SCI，2022中科院二区TOP，JCR分区Q1，IF：7.802)** [[下载PDF]](http://42.192.94.151/cv_files/1-s2.0-S0952197623006887-main.pdf)
+- 📜 **论文：****Pengcheng Jiang**, Yu Xue, Ferrnate Neri. Convolutional neural network pruning based on multi-objective feature map selection for image classification[J]. *Applied Soft Computing*, 2023: 110229. [DOI: 10.1016/j.asoc.2023.110229](https://doi.org/10.1016/j.asoc.2023.110229) **(SCI，2022中科院二区TOP，JCR分区Q1，IF：8.263，被引次数2)**[[下载PDF]](http://42.192.94.151/cv_files/1-s2.0-S1568494623002478-main.pdf)
+- 📜 **论文：**Yu Xue, **Pengcheng Jiang**, Ferrnate Neri, Jiayu Liang. A multi-objective evolutionary approach based on Graph-in-Graph for neural architecture search of convolutional neural networks[J]. *International Journal of Neural Systems*, 2021, 31(09): 2150035. [DOI: 10.1142/S0129065721500350](https://doi.org/10.1142/S0129065721500350) **(除老师外一作，SCI，2020年中科院一区TOP，JCR分区Q1，IF：6.325，被引次数84)**[[下载PDF]](http://42.192.94.151/cv_files/s0129065721500350.pdf)
 - 📜 **论文：****Pengcheng Jiang**, Yu Xue, Ferrnate Neri. Score predictor-assisted evolutionary neural architecture search[J]. *IEEE Transactions on Emerging Topics in Computational Intelligence* **(2023年8月10日投稿在审，Trans，SCI，中科二区，JCR分区Q1，IF：5.3)**[[录用后公开PDF]]()
-- 📜 **论文：****Pengcheng Jiang**, Yu Xue, Danilo Pelusi, Jiayu Liang, Ujjwal Maulik. FS-plugin: A method for training neural network with feature scaling and selection[J]. *IEEE Transactions on Knowledge and Data Engineering* **(2023年9月24日投稿在审，Trans，SCI，中科二区，CCF评级A，JCR分区Q1，IF：8.9)** [[录用后公开PDF]]()
+- 📜 **论文：****Pengcheng Jiang**, Yu Xue, Danilo Pelusi, Jiayu Liang, Ujjwal Maulik. Feature scaling and selection for training neural network[J]. *IEEE Transactions on Industrial Informatics* **(2023年10月20日投稿在审，Trans，SCI，中科一区TOP，JCR分区Q1，IF：12.3)** [[录用后公开PDF]]()
 - 📜 **论文:** Yu Xue, **Pengcheng Jiang**, Ferrnate Neri, Ziming Yuan,"CoAM: Confidence Attention Module for Deep Convolutional,". **(修改中)**[[录用后公开PDF]]()
 - 📜 **论文：****Pengcheng Jiang**, Yu Xue. A distributed secret sharing method with QR code based on information hiding[J]. *Journal of Cyber Security*, 2021, 3(4): 217-225. [DOI: 10.32604/jcs.2021.026022](https://doi.org/10.32604/jcs.2021.026022) **(英文外刊)** [[下载PDF]](http://42.192.94.151/cv_files/03.pdf)
 - 📰 **软著：**安全二维码生成系统V1.0（2021SR0885987）
@@ -67,6 +67,14 @@ redirect_from:
 - 📜 **论文：**韩啸,熊礼治,**蒋鹏程**,宋婷婷.一种密文图像安全性评价方案[J].*计算机应用与软件*,2019(03):148-153. **(中文核心，被引次数4)** [[下载PDF]](http://42.192.94.151/cv_files/01.pdf) [[知网链接]](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?sfield=fn&QueryID=12&CurRec=1&recid=&FileName=JYRJ201903029&DbName=CJFDLAST2019)
 - 📑 **专利：**熊礼治,**蒋鹏程**,王乐,韩啸,汤琳俪,曹梦琦.一种基于精准定位和安全扫码的共享单车计费方法[P]. CN109242645A,2019-01-18. **(除老师外一作)** [[下载PDF]](http://42.192.94.151/cv_files/00.pdf) [[知网链接]](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?sfield=fn&QueryID=33&CurRec=1&DBCode=SCPD&dbname=SCPD201901&filename=CN109242645A)
 - 📰 **软著：**一种密文图像安全性评价软件V1.0（2019SR0588758）
+
+<span class='anchor' id='-services'></span>
+
+# 📌 社会服务
+担任以下期刊的审稿人：
+- 📙 Information Sciences (SCI一区，IF:8.1)
+- 📙 PeerJ Computer Science (SCI四区，IF:3.8)
+- 📙 CMC-Computers Materials & Continua (SCI四区，IF:3.1)
 
 <span class='anchor' id='-projects'></span>
 

@@ -15,6 +15,10 @@ main:
   - url: "#-achievements" 
     title_en: "Scientific Achievements"
     title_zh: "科研成果"
+    
+  - url: "#-services" 
+    title_en: "Services"
+    title_zh: "社会服务"
 
   - url: "#-projects"
     title_en: "Projects"

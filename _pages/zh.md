@@ -59,7 +59,7 @@ redirect_from:
 - 📜 **论文：****Pengcheng Jiang**, Yu Xue, Ferrnate Neri. Convolutional neural network pruning based on multi-objective feature map selection for image classification[J]. *Applied Soft Computing*, 2023: 110229. [DOI: 10.1016/j.asoc.2023.110229](https://doi.org/10.1016/j.asoc.2023.110229) **(SCI，2022中科院二区TOP，JCR分区Q1，IF：8.263，被引次数2)**[[下载PDF]](http://42.192.94.151/cv_files/1-s2.0-S1568494623002478-main.pdf)
 - 📜 **论文：**Yu Xue, **Pengcheng Jiang**, Ferrnate Neri, Jiayu Liang. A multi-objective evolutionary approach based on Graph-in-Graph for neural architecture search of convolutional neural networks[J]. *International Journal of Neural Systems*, 2021, 31(09): 2150035. [DOI: 10.1142/S0129065721500350](https://doi.org/10.1142/S0129065721500350) **(除老师外一作，SCI，2020年中科院一区TOP，JCR分区Q1，IF：6.325，被引次数84)**[[下载PDF]](http://42.192.94.151/cv_files/s0129065721500350.pdf)
 - 📜 **论文：****Pengcheng Jiang**, Yu Xue, Ferrnate Neri. Score predictor-assisted evolutionary neural architecture search[J]. *IEEE Transactions on Emerging Topics in Computational Intelligence* **(2023年8月10日投稿在审，Trans，SCI，中科二区，JCR分区Q1，IF：5.3)**[[录用后公开PDF]]()
-- 📜 **论文：****Pengcheng Jiang**, Yu Xue, Danilo Pelusi, Jiayu Liang, Ujjwal Maulik. Feature scaling and selection for training neural network[J]. *IEEE Transactions on Industrial Informatics* **(2023年10月20日投稿在审，Trans，SCI，中科一区TOP，JCR分区Q1，IF：12.3)** [[录用后公开PDF]]()
+- 📜 **论文：****Pengcheng Jiang**, Yu Xue, Danilo Pelusi, Jiayu Liang, Ujjwal Maulik. Feature scaling and selection module for training neural networks[J]. *IEEE Transactions on Industrial Informatics* **(2023年10月20日投稿在审，Trans，SCI，中科一区TOP，JCR分区Q1，IF：12.3)** [[录用后公开PDF]]()
 - 📜 **论文:** Yu Xue, **Pengcheng Jiang**, Ferrnate Neri, Ziming Yuan,"CoAM: Confidence Attention Module for Deep Convolutional,". **(修改中)**[[录用后公开PDF]]()
 - 📜 **论文：****Pengcheng Jiang**, Yu Xue. A distributed secret sharing method with QR code based on information hiding[J]. *Journal of Cyber Security*, 2021, 3(4): 217-225. [DOI: 10.32604/jcs.2021.026022](https://doi.org/10.32604/jcs.2021.026022) **(英文外刊)** [[下载PDF]](http://42.192.94.151/cv_files/03.pdf)
 - 📰 **软著：**安全二维码生成系统V1.0（2021SR0885987）
@@ -101,10 +101,11 @@ redirect_from:
 
 # 🎖 获奖
 ### 博士期间
+- *2023.11* 南京信息工程大学“研究生优秀奖学金、学业奖学金” **一等奖**** **<font color="red">（1/8，<5%）</font>**
 - *2022.11* 南京信息工程大学“研究生优秀新生奖学金、学业奖学金” **二等奖**
 
 ### 硕士期间
-- *2021.12* 南京信息工程大学“研究生优秀奖学金、学业奖学金” **一等奖** **（3/68，<5%）**
+- *2021.12* 南京信息工程大学“研究生优秀奖学金、学业奖学金” **一等奖** **<font color="red">（3/68，<5%）</font>**
 - *2021.12* 南京信息工程大学“**三好研究生**”
 - *2020.12* 南京信息工程大学“研究生优秀新生奖学金、学业奖学金” **二等奖**
 

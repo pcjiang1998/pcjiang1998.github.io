@@ -60,7 +60,7 @@ My research direction is **Evolutionary Deep Learning**, mainly including **Neur
 - 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrnate Neri, “Convolutional neural network pruning based on multi-objective feature map selection for image classification,” *Applied Soft Computing*, p. 110229, 2023, [DOI: 10.1016/10.1016/j.asoc.2023.110229](https://doi.org/10.1016/j.asoc.2023.110229). **(SCI \| CAS 2st Region TOP (2022) \| JCR Q1 \| IF: 8.263 \| Cited: 2)**[[Download PDF]](http://42.192.94.151/cv_files/1-s2.0-S1568494623002478-main.pdf)
 - 📜 **Paper:** Yu Xue, **Pengcheng Jiang**, Ferrnate Neri, Jiayu Liang, "A multi-objective evolutionary approach based on Graph-in-Graph for neural architecture search of convolutional neural networks,". *International Journal of Neural Systems*, vol. 31, no. 09, p. 2150035, 2021, [DOI: 10.1142/S0129065721500350](https://doi.org/10.1142/S0129065721500350). **(First author except teacher \| SCI \| CAS 1st Region TOP (2020) \| JCR Q1 \| IF: 6.325 \| Cited: 84)**[[Download PDF]](http://42.192.94.151/cv_files/s0129065721500350.pdf)
 - 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrnate Neri,"Score predictor-assisted evolutionary neural architecture search,". *IEEE Transactions on Emerging Topics in Computational Intelligence* **(Submited under review on Aug. 10, 2023 \| Trans \| SCI \| CAS 2nd Region (2022) \| JCR Q1 \| IF: 5.3)**[[Open PDF after acceptance]]()
-- 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Danilo Pelusi, Jiayu Liang, Ujjwal Maulik, "Feature scaling and selection for training neural network,". *IEEE Transactions on Industrial Informatics* **(Submited under review on Oct. 20, 2023 \| Trans \| SCI \| CAS 1st Region (2022) \| JCR Q1 \| IF: 12.3)**[[Open PDF after acceptance]]()
+- 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Danilo Pelusi, Jiayu Liang, Ujjwal Maulik, "Feature scaling and selection module for training neural networks,". *IEEE Transactions on Industrial Informatics* **(Submited under review on Oct. 20, 2023 \| Trans \| SCI \| CAS 1st Region (2022) \| JCR Q1 \| IF: 12.3)**[[Open PDF after acceptance]]()
 - 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrnate Neri, Ziming Yuan,"CoAM: Confidence Attention Module for Deep Convolutional,". **(Under modification)**[[Open PDF after acceptance]]()
 - 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, "A distributed secret sharing method with QR code based on information hiding,". *Journal of Cyber Security*, vol. 3, no.4, pp. 217-225, 2021, [DOI: 10.32604/jcs.2021.026022](https://doi.org/10.32604/jcs.2021.026022). **(English Publications)** [[Download PDF]](http://42.192.94.151/cv_files/03.pdf)
 - 📰 **Software (ZH):** 安全二维码生成系统V1.0（2021SR0885987）
@@ -102,10 +102,11 @@ Served as a reviewer for the following journals:
 
 # 🎖 Awards
 ### During the period of Ph.D
+- *2023.11*, NUIST "Excellent Scholarship for Graduate Students and Academic Scholarship" **1st prize** **<font color="red">(1/8，<5%)</font>**
 - *2022.11*, NUIST "Scholarship for Outstanding freshmen and academic scholarship" **2nd prize**
 
 ### During the period of M.Sc
-- *2021.12*, NUIST "Excellent Scholarship for Graduate Students and Academic Scholarship" **1st prize** **(3/68, <5%)**
+- *2021.12*, NUIST "Excellent Scholarship for Graduate Students and Academic Scholarship" **1st prize** **<font color="red">(3/68, <5%)</font>**
 - *2021.12*, NUIST "Merit Graduate Student"
 - *2020.12*, NUIST "Scholarship for Outstanding freshmen and academic scholarship" **2nd prize**
 

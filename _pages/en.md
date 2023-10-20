@@ -73,9 +73,9 @@ My research direction is **Evolutionary Deep Learning**, mainly including **Neur
 
 # 📌 Services
 Served as a reviewer for the following journals:
-- 📙 Information Sciences (SCIE, IF:8.1)
-- 📙 PeerJ Computer Science (SCIE, IF:3.8)
-- 📙 Computers, Materials & Continua (SCIE, IF:3.1)
+- 📙 Information Sciences (SCI, IF:8.1)
+- 📙 PeerJ Computer Science (SCI, IF:3.8)
+- 📙 CMC-Computers Materials & Continua (SCI, IF:3.1)
 
 <span class='anchor' id='-projects'></span>
 

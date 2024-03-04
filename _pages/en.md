@@ -82,6 +82,11 @@ Served as a reviewer for the following journals:
 - 📙 CMC-Computers Materials & Continua (SCI, IF:3.1)
 - 📙 Knowledge and Information Systems (SCI, IF:2.7)
 
+Served as a reviewer for the following conferences:
+- 📃 7th International Conference on Artificial Intelligence and Security
+- 📃 8th International Conference on Artificial Intelligence and Security
+- 📃 2024 IEEE Conference on Artificial Intelligence (IEEE CAI 2024)
+- 📃 2024 International Joint Conference on Neural Networks (IEEE IJCNN 2024)
 
 <span class='anchor' id='-skills'></span>
 # 🔥 Skills

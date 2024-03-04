@@ -82,6 +82,11 @@ redirect_from:
 - 📙 CMC-Computers Materials & Continua (SCI三区，IF:3.1)
 - 📙 Knowledge and Information Systems (SCI四区，IF:2.7)
 
+担任以下会议的审稿人：
+- 📃 7th International Conference on Artificial Intelligence and Security
+- 📃 8th International Conference on Artificial Intelligence and Security
+- 📃 2024 IEEE Conference on Artificial Intelligence (IEEE CAI 2024)
+- 📃 2024 International Joint Conference on Neural Networks (IEEE IJCNN 2024)
 
 <span class='anchor' id='-skills'></span>
 # 🔥 技术优势

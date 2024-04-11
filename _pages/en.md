@@ -51,20 +51,21 @@ My research direction is **Evolutionary Deep Learning**, mainly including **Neur
 
 
 <span class='anchor' id='-achievements'></span>
-# 📝 Scientific Achievements (Updated on 2024/01/15)
+# 📝 Scientific Achievements (Updated on 2024/4/11)
 ### Under review/revision
-- 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrnate Neri,"Score predictor-assisted evolutionary neural architecture search,". *IEEE Transactions on Emerging Topics in Computational Intelligence* **(Decision with resubmit on Dec. 20, 2023 \| Trans \| SCI \| CAS 2nd Region (2022) \| JCR Q1 \| IF: 5.3)**[[Open PDF after acceptance]]()
-- 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrnate Neri, Mohamed Wahib, Peng Chen, "Surrogate-Assisted Evolutionary Neural Architecture Search with Isomorphic Training and Prediction,". in *2024 International Joint Conference on Neural Networks (IJCNN)* **(Submited on Jan. 13, 2024 \| CCF-C)**[[Open PDF after acceptance]]()
-- 📜 **Paper:** Yu Xue, **Pengcheng Jiang**, "Multi-objective Self-adaptive PSO for Classification in Intrusion Detection with High-dimensional, Unbalanced and Cost-sensitive Data,". *IEEE Transactions on Computational Social Systems* **(First author except teacher \| Submited under review on Mar. 2 2024 \| Trans \| SCI \| CAS 2nd Region (2023) \| JCR Q1 \| IF: 5)**[[Open PDF after acceptance]]()
-- 📜 **Paper (ZH):** **蒋鹏程**,薛羽.基于排序得分预测的演化神经架构搜索方法[J].*计算机学报* **(Submited under review on Dec. 24, 2023 \| CCF-A)**[[Open PDF after acceptance]]()
-- 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Danilo Pelusi, Jiayu Liang, Ujjwal Maulik, "Feature scaling and selection module for training neural networks,". *IEEE Transactions on Industrial Informatics* **(Submited under review on Oct. 20, 2023 \| Trans \| SCI \| CAS 1st Region (2022) \| JCR Q1 \| IF: 12.3)**[[Open PDF after acceptance]]()
-- 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrnate Neri, Ziming Yuan,"CoAM: Confidence Attention Module for Deep Convolutional,". **(Under modification)**[[Open PDF after acceptance]]()
+- 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrnate Neri,"Rank Surrogate-assisted Dual-level Evolutionary Multi-objective Neural Architecture Search,". *IEEE Transactions on Evolutionary Computation* **(Submited on Apr. 9, 2024 \| Trans \| SCI \| CAS 1st Region (2024) \| JCR Q1 \| IF: 14.3)**[[Open PDF after acceptance]]()
+- 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrnate Neri,"Score predictor-assisted evolutionary neural architecture search,". *IEEE Transactions on Emerging Topics in Computational Intelligence* **(Resubmit with revision on Mar. 4, 2024 \| Trans \| SCI \| CAS 3rd Region (2024) \| JCR Q1 \| IF: 5.3)**[[Open PDF after acceptance]]()
+- 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrnate Neri, Mohamed Wahib, "Surrogate-Assisted Evolutionary Neural Architecture Search with Isomorphic Training and Prediction,". in *2024 International Conference on Intelligent Computing (ICIC)* **(Submited on Mar. 21, 2024 \| CCF-C)**[[Open PDF after acceptance]]()
+- 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, "Multi-objective Self-adaptive PSO for Classification in Intrusion Detection with High-dimensional, Unbalanced and Cost-sensitive Data,". *IEEE Transactions on Computational Social Systems* **(Revise on Mar. 6 2024 \| Trans \| SCI \| CAS 2nd Region (2023) \| JCR Q1 \| IF: 5)**[[Open PDF after acceptance]]()
+- 📜 **Paper (ZH):** **蒋鹏程**,薛羽.基于排序得分预测的演化神经架构搜索方法[J].*计算机学报* **(Revise on Mar. 28, 2024 \| CCF-A)**[[Open PDF after acceptance]]()
+- 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Danilo Pelusi, Jiayu Liang, Ujjwal Maulik, "Feature scaling and selection module for training neural networks,". *IEEE Transactions on Industrial Informatics* **(Reject and revise on Apr. 6, 2024 \| Trans \| SCI \| CAS 1st Region (2022) \| JCR Q1 \| IF: 12.3)**[[Open PDF after acceptance]]()
+<!--  - 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrnate Neri, Ziming Yuan,"CoAM: Confidence Attention Module for Deep Convolutional,". **(Under modification)**[[Open PDF after acceptance]]()   -->
 
 
 ### Published
-- 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrnate Neri, "Continuously evolving Dropout with multi-objective evolutionary optimization,". *Engineering Applications of Artificial Intelligence*, vol. 124, p. 106504, 2023, [DOI: 10.1016/j.engappai.2023.106504](https://doi.org/10.1016/j.engappai.2023.106504). **(SCI \| CAS 1st Region TOP (2023) \| JCR Q1 \| IF: 8 \| Cited: 2)** [[Download PDF]](http://42.192.94.151/cv_files/1-s2.0-S0952197623006887-main.pdf)
-- 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrnate Neri, “Convolutional neural network pruning based on multi-objective feature map selection for image classification,” *Applied Soft Computing*, p. 110229, 2023, [DOI: 10.1016/10.1016/j.asoc.2023.110229](https://doi.org/10.1016/j.asoc.2023.110229). **(SCI \| CAS 1st Region TOP (2023) \| JCR Q1 \| IF: 8.7 \| Cited: 5)**[[Download PDF]](http://42.192.94.151/cv_files/1-s2.0-S1568494623002478-main.pdf)
-- 📜 **Paper:** Yu Xue, **Pengcheng Jiang**, Ferrnate Neri, Jiayu Liang, "A multi-objective evolutionary approach based on Graph-in-Graph for neural architecture search of convolutional neural networks,". *International Journal of Neural Systems*, vol. 31, no. 09, p. 2150035, 2021, [DOI: 10.1142/S0129065721500350](https://doi.org/10.1142/S0129065721500350). **(First author except teacher \| SCI \| CAS 1st Region TOP (2021) \| JCR Q1 \| IF: 6.325 \| Cited: 95)**[[Download PDF]](http://42.192.94.151/cv_files/s0129065721500350.pdf)
+- 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrnate Neri, "Continuously evolving Dropout with multi-objective evolutionary optimization,". *Engineering Applications of Artificial Intelligence*, vol. 124, p. 106504, 2023, [DOI: 10.1016/j.engappai.2023.106504](https://doi.org/10.1016/j.engappai.2023.106504). **(SCI \| CAS 1st Region TOP (2023) \| JCR Q1 \| IF: 8 \| Cited: 3)** [[Download PDF]](http://42.192.94.151/cv_files/1-s2.0-S0952197623006887-main.pdf)
+- 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrnate Neri, “Convolutional neural network pruning based on multi-objective feature map selection for image classification,” *Applied Soft Computing*, p. 110229, 2023, [DOI: 10.1016/10.1016/j.asoc.2023.110229](https://doi.org/10.1016/j.asoc.2023.110229). **(SCI \| CAS 1st Region TOP (2023) \| JCR Q1 \| IF: 8.7 \| Cited: 8)**[[Download PDF]](http://42.192.94.151/cv_files/1-s2.0-S1568494623002478-main.pdf)
+- 📜 **Paper:** Yu Xue, **Pengcheng Jiang**, Ferrnate Neri, Jiayu Liang, "A multi-objective evolutionary approach based on Graph-in-Graph for neural architecture search of convolutional neural networks,". *International Journal of Neural Systems*, vol. 31, no. 09, p. 2150035, 2021, [DOI: 10.1142/S0129065721500350](https://doi.org/10.1142/S0129065721500350). **(First author except teacher \| SCI \| CAS 1st Region TOP (2021) \| JCR Q1 \| IF: 6.325 \| Cited: 100)**[[Download PDF]](http://42.192.94.151/cv_files/s0129065721500350.pdf)
 - 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, "A distributed secret sharing method with QR code based on information hiding,". *Journal of Cyber Security*, vol. 3, no.4, pp. 217-225, 2021, [DOI: 10.32604/jcs.2021.026022](https://doi.org/10.32604/jcs.2021.026022). **(Cited: 1)** [[Download PDF]](http://42.192.94.151/cv_files/03.pdf)
 - 📰 **Software (ZH):** 安全二维码生成系统V1.0（2021SR0885987）
 - 📜 **Paper (ZH):** **蒋鹏程**,熊礼治,韩啸.一种基于内容保护与优化识别的二维码方案[J].*软件导刊*,2019,18(02):119-122. **(SCD \| Cited: 4)** [[Download PDF]](http://42.192.94.151/cv_files/02.pdf) [[CNKI Link]](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?sfield=fn&QueryID=0&CurRec=1&recid=&FileName=RJDK201902031&DbName=CJFDLAST2019)
@@ -76,6 +77,7 @@ My research direction is **Evolutionary Deep Learning**, mainly including **Neur
 <span class='anchor' id='-services'></span>
 # 📌 Services
 Served as a reviewer for the following journals:
+- 📙 IEEE Transactions on Industrial Informatics(SCI, IF:12.3)
 - 📙 Information Sciences (SCI, IF:8.1)
 - 📙 Journal of Supercomputing (SCI, IF:3.3)
 - 📙 PeerJ Computer Science (SCI, IF:3.8)
@@ -87,6 +89,11 @@ Served as a reviewer for the following conferences:
 - 📃 8th International Conference on Artificial Intelligence and Security
 - 📃 2024 IEEE Conference on Artificial Intelligence (IEEE CAI 2024)
 - 📃 2024 International Joint Conference on Neural Networks (IEEE IJCNN 2024)
+
+<span class='anchor' id='-grants'></span>
+# 💬 项目经历
+- *2019.04 ~ 2022.12* NSFC-Research on Large scale Feature Selection Based on Adaptive Evolutionary Computing
+- *2024.01 ~ 2027.12* NSFC-Research on multi-objective and multi task evolutionary deep neural networks based on efficient proxy models
 
 <span class='anchor' id='-skills'></span>
 # 🔥 Skills

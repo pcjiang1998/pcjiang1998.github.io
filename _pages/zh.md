@@ -51,31 +51,34 @@ redirect_from:
 
 
 <span class='anchor' id='-achievements'></span>
-# 📝 科研成果（更新于2024/03/02）
+# 📝 科研成果（更新于2024/04/11）
 ### 正在审理/修改
-- 📜 **论文：****Pengcheng Jiang**, Yu Xue, Ferrnate Neri. Score predictor-assisted evolutionary neural architecture search[J]. *IEEE Transactions on Emerging Topics in Computational Intelligence* **(2023年12月20日Decision with resubmit，Trans，SCI，中科院二区，JCR分区Q1，IF：5.3)**[[录用后公开PDF]]()
-- 📜 **论文：****Pengcheng Jiang**, Yu Xue, Ferrnate Neri, Mohamed Wahib, Peng Chen. Surrogate-Assisted Evolutionary Neural Architecture Search with Isomorphic Training and Prediction[C]//*2024 International Joint Conference on Neural Networks (IJCNN)* **(2024年1月13日投稿，国际会议，CCF-C)**[[录用后公开PDF]]()
-- 📜 **论文：**Yu Xue, **Pengcheng Jiang**. Multi-objective Self-adaptive PSO for Classification in Intrusion Detection with High-dimensional, Unbalanced and Cost-sensitive Data[J]. *IEEE Transactions on Computational Social Systems* **(除老师外一作，2024年3月2日投稿，Trans，SCI，中科院二区，JCR分区Q1，IF：5)**[[录用后公开PDF]]()
-- 📜 **论文：****蒋鹏程**,薛羽.基于排序得分预测的演化神经架构搜索方法[J].*计算机学报* **(2023年12月24日投稿，中文核心，CCF-A)**[[录用后公开PDF]]()
-- 📜 **论文：****Pengcheng Jiang**, Yu Xue, Danilo Pelusi, Jiayu Liang, Ujjwal Maulik. Feature scaling and selection module for training neural networks[J]. *IEEE Transactions on Industrial Informatics* **(2023年10月20日投稿在审，Trans，SCI，中科院一区TOP，JCR分区Q1，IF：12.3)** [[录用后公开PDF]]()
-- 📜 **论文:** Yu Xue, **Pengcheng Jiang**, Ferrnate Neri, Ziming Yuan,"CoAM: Confidence Attention Module for Deep Convolutional,". **(修改中)**[[录用后公开PDF]]()
+
+- 📜 **论文：****Pengcheng Jiang**, Yu Xue, Ferrnate Neri. Rank Surrogate-assisted Dual-level Evolutionary Multi-objective Neural Architecture Search[J]. *IEEE Transactions on Evolutionary Computation* **(2024年4月9日投稿，Trans，SCI，中科院一区，JCR分区Q1，IF：14.3)**[[录用后公开PDF]]()
+- 📜 **论文：****Pengcheng Jiang**, Yu Xue, Ferrnate Neri. Score predictor-assisted evolutionary neural architecture search[J]. *IEEE Transactions on Emerging Topics in Computational Intelligence* **(2024年3月4日修改重投，Trans，SCI，中科院三区，JCR分区Q1，IF：5.3)**[[录用后公开PDF]]()
+- 📜 **论文：****Pengcheng Jiang**, Yu Xue, Ferrnate Neri, Mohamed Wahib. Surrogate-Assisted Evolutionary Neural Architecture Search with Isomorphic Training and Prediction[C]//*2024 International Conference on Intelligent Computing (ICIC)* **(2024年3月21日投稿，国际会议，CCF-C)**[[录用后公开PDF]]()
+- 📜 **论文：****Pengcheng Jiang**, Yu Xue. Multi-objective Self-adaptive PSO for Classification in Intrusion Detection with High-dimensional, Unbalanced and Cost-sensitive Data[J]. *IEEE Transactions on Computational Social Systems* **(2024年3月6日修改中，Trans，SCI，中科院二区，JCR分区Q1，IF：5)**[[录用后公开PDF]]()
+- 📜 **论文：****蒋鹏程**,薛羽.基于排序得分预测的演化神经架构搜索方法[J].*计算机学报* **(2024年3月28日返回修改中，中文核心，CCF-A)**[[录用后公开PDF]]()
+- 📜 **论文：****Pengcheng Jiang**, Yu Xue, Danilo Pelusi, Jiayu Liang, Ujjwal Maulik. Feature scaling and selection module for training neural networks[J]. *IEEE Transactions on Industrial Informatics* **(2024年4月6日拒稿修改中，Trans，SCI，中科院一区TOP，JCR分区Q1，IF：12.3)** [[录用后公开PDF]]()
+<!--  - 📜 **论文:** Yu Xue, **Pengcheng Jiang**, Ferrnate Neri, Ziming Yuan,"CoAM: Confidence Attention Module for Deep Convolutional,". **(修改中)**[[录用后公开PDF]]()   -->
 
 
 ### 已发表/出版
-- 📜 **论文：****Pengcheng Jiang**, Yu Xue, Ferrnate Neri. Continuously evolving dropout with multi-objective evolutionary optimisation[J]. *Engineering Applications of Artificial Intelligence*, 2023, 124: 106504. [DOI: 10.1016/j.engappai.2023.106504](https://doi.org/10.1016/j.engappai.2023.106504) **(SCI，2023中科院一区TOP，JCR分区Q1，IF：8，被引次数2)** [[下载PDF]](http://42.192.94.151/cv_files/1-s2.0-S0952197623006887-main.pdf)
-- 📜 **论文：****Pengcheng Jiang**, Yu Xue, Ferrnate Neri. Convolutional neural network pruning based on multi-objective feature map selection for image classification[J]. *Applied Soft Computing*, 2023: 110229. [DOI: 10.1016/j.asoc.2023.110229](https://doi.org/10.1016/j.asoc.2023.110229) **(SCI，2022中科院一区TOP，JCR分区Q1，IF：8.7，被引次数5)**[[下载PDF]](http://42.192.94.151/cv_files/1-s2.0-S1568494623002478-main.pdf)
-- 📜 **论文：**Yu Xue, **Pengcheng Jiang**, Ferrnate Neri, Jiayu Liang. A multi-objective evolutionary approach based on Graph-in-Graph for neural architecture search of convolutional neural networks[J]. *International Journal of Neural Systems*, 2021, 31(09): 2150035. [DOI: 10.1142/S0129065721500350](https://doi.org/10.1142/S0129065721500350) **(除老师外一作，SCI，2021年中科院一区TOP，JCR分区Q1，IF：6.325，被引次数95)**[[下载PDF]](http://42.192.94.151/cv_files/s0129065721500350.pdf)
+- 📜 **论文：****Pengcheng Jiang**, Yu Xue, Ferrnate Neri. Continuously evolving dropout with multi-objective evolutionary optimisation[J]. *Engineering Applications of Artificial Intelligence*, 2023, 124: 106504. [DOI: 10.1016/j.engappai.2023.106504](https://doi.org/10.1016/j.engappai.2023.106504) **(SCI，2023中科院一区TOP，JCR分区Q1，IF：8，被引次数3)** [[下载PDF]](http://42.192.94.151/cv_files/1-s2.0-S0952197623006887-main.pdf)
+- 📜 **论文：****Pengcheng Jiang**, Yu Xue, Ferrnate Neri. Convolutional neural network pruning based on multi-objective feature map selection for image classification[J]. *Applied Soft Computing*, 2023: 110229. [DOI: 10.1016/j.asoc.2023.110229](https://doi.org/10.1016/j.asoc.2023.110229) **(SCI，2022中科院一区TOP，JCR分区Q1，IF：8.7，被引次数8)**[[下载PDF]](http://42.192.94.151/cv_files/1-s2.0-S1568494623002478-main.pdf)
+- 📜 **论文：**Yu Xue, **Pengcheng Jiang**, Ferrnate Neri, Jiayu Liang. A multi-objective evolutionary approach based on Graph-in-Graph for neural architecture search of convolutional neural networks[J]. *International Journal of Neural Systems*, 2021, 31(09): 2150035. [DOI: 10.1142/S0129065721500350](https://doi.org/10.1142/S0129065721500350) **(除老师外一作，SCI，2021年中科院一区TOP，JCR分区Q1，IF：6.325，被引次数100)**[[下载PDF]](http://42.192.94.151/cv_files/s0129065721500350.pdf)
 - 📜 **论文：****Pengcheng Jiang**, Yu Xue. A distributed secret sharing method with QR code based on information hiding[J]. *Journal of Cyber Security*, 2021, 3(4): 217-225. [DOI: 10.32604/jcs.2021.026022](https://doi.org/10.32604/jcs.2021.026022) **(英文外刊，被引次数1)** [[下载PDF]](http://42.192.94.151/cv_files/03.pdf)
 - 📰 **软著：**安全二维码生成系统V1.0（2021SR0885987）
-- 📜 **论文：****蒋鹏程**,熊礼治,韩啸.一种基于内容保护与优化识别的二维码方案[J].*软件导刊*,2019,18(02):119-122. **(中文SCD科学引文数据库，被引次数4)** [[下载PDF]](http://42.192.94.151/cv_files/02.pdf) [[知网链接]](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?sfield=fn&QueryID=0&CurRec=1&recid=&FileName=RJDK201902031&DbName=CJFDLAST2019)
-- 📜 **论文：**韩啸,熊礼治,**蒋鹏程**,宋婷婷.一种密文图像安全性评价方案[J].*计算机应用与软件*,2019(03):148-153. **(中文核心，被引次数9)** [[下载PDF]](http://42.192.94.151/cv_files/01.pdf) [[知网链接]](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?sfield=fn&QueryID=12&CurRec=1&recid=&FileName=JYRJ201903029&DbName=CJFDLAST2019)
-- 📑 **专利：**熊礼治,**蒋鹏程**,王乐,韩啸,汤琳俪,曹梦琦.一种基于精准定位和安全扫码的共享单车计费方法[P]. CN109242645A,2019-01-18. **(除老师外一作)** [[下载PDF]](http://42.192.94.151/cv_files/00.pdf) [[知网链接]](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?sfield=fn&QueryID=33&CurRec=1&DBCode=SCPD&dbname=SCPD201901&filename=CN109242645A)
+- 📜 **论文：****蒋鹏程**,熊礼治,韩啸.一种基于内容保护与优化识别的二维码方案[J].*软件导刊*,2019,18(02):119-122. **(CCF计算领域高质量期刊T3，中文SCD科学引文数据库，被引次数4)** [[下载PDF]](http://42.192.94.151/cv_files/02.pdf) [[知网链接]](https://kns.cnki.net/kcms2/article/abstract?v=YoFA4grnCX4wQYh6LuLmGYuLa1BxBkb1fndLONcISVT6xQjZ2ehzb07VH4dlH6qU55qtfZOmI_7nJUZBRhg9pJkPuhodvDWKt5Hu2g6ptgvHWFVWO5AkTwzDm89Lip7CLVjmveick9ctD47fOuQ-bg==)
+- 📜 **论文：**韩啸,熊礼治,**蒋鹏程**,宋婷婷.一种密文图像安全性评价方案[J].*计算机应用与软件*,2019(03):148-153. **(中文核心，被引次数9)** [[下载PDF]](http://42.192.94.151/cv_files/01.pdf) [[知网链接]](https://kns.cnki.net/kcms2/article/abstract?v=YoFA4grnCX7wc9Xnndm6XwTtFTGEnh4EcMDP_MtedNKyvw9NgNY-xb6ALV4kk3MRqBkT4pYZv_zUvdsEK2T8XdrY-juzvmV_PA4JkNKfQ2DkGK6-PK8OiHs5ZvzuWu3ilNpLp1fY0mHDN11nCwoQ1g==)
+- 📑 **专利：**熊礼治,**蒋鹏程**,王乐,韩啸,汤琳俪,曹梦琦.一种基于精准定位和安全扫码的共享单车计费方法[P]. CN109242645A,2019-01-18. **(除老师外一作)** [[下载PDF]](http://42.192.94.151/cv_files/00.pdf) [[知网链接]](https://kns.cnki.net/kcms2/article/abstract?v=YoFA4grnCX4lF5iSTPVzIEftr2rGq8LgeLAfR4A01oifAMSPEG1NWqqEeq60hHNI3mM5gKIu1qyUc77LtO8djxmJS4KW-CuvWzPFDGARfD6wgdlrqPZP7yY4d28Lk9WiGj_XtaQDdCw=)
 - 📰 **软著：**一种密文图像安全性评价软件V1.0（2019SR0588758）
 
 
 <span class='anchor' id='-services'></span>
 # 📌 社会服务
 担任以下期刊的审稿人：
+- 📙 IEEE Transactions on Industrial Informatics(SCI一区，IF:12.3)
 - 📙 Information Sciences (SCI一区，IF:8.1)
 - 📙 Journal of Supercomputing (SCI三区，IF:3.3)
 - 📙 PeerJ Computer Science (SCI三区，IF:3.8)
@@ -87,6 +90,14 @@ redirect_from:
 - 📃 8th International Conference on Artificial Intelligence and Security
 - 📃 2024 IEEE Conference on Artificial Intelligence (IEEE CAI 2024)
 - 📃 2024 International Joint Conference on Neural Networks (IEEE IJCNN 2024)
+
+<span class='anchor' id='-grants'></span>
+# 💬 项目经历
+- *2019.04 ~ 2022.12* 国家自然科学基金（面上项目）基于自适应演化计算的大规模特征选择研究
+- *2024.01 ~ 2027.12* 国家自然科学基金（面上项目）基于高效代理模型的多目标多任务演化深层神经网络研究
+- *2020.10 ~ 2022.03* 中国**集团公司第**研究所（横向课题）工业机器人协同开发平台集成服务总线开发（参与）
+- *2020.04 ~ 2020.10* 数据科学与智慧软件江苏省重点建设实验室（开放课题）基于演化计算的大规模无人机协同电子对抗关键技术 （参与）
+- *2017.04 ~ 2019.04* 大学生创新训练项目（学生团队项目）基于精准定位和安全扫码的共享单车计费系统（第一负责人）
 
 <span class='anchor' id='-skills'></span>
 # 🔥 技术优势

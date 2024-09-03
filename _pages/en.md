@@ -52,20 +52,20 @@ My research direction is **Evolutionary Deep Learning**, mainly including **Neur
 
 
 <span class='anchor' id='-achievements'></span>
-# 📝 Scientific Achievements (Updated on 2024/8/20)
+# 📝 Scientific Achievements (Updated on 2024/9/2)
 ### Under review/revision
 - 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Zhongyuan Hu, Bing Xue, Mengjie Zhang,"Surrogate-assisted performance ranking for evolutionary deep neural architecture search,". *IEEE Transactions on Knowledge and Data Engineering* **(Under revision \| Trans \| SCI \| CAS Q1 (2024) \| JCR Q1 \| IF: 8.9 \| CCF-A)** [[Open PDF after acceptance]]()
-- 📜 **Paper:** Yu Xue, **Pengcheng Jiang**, Zhenman Zhang, Mengchu Zhou,"Neural architecture search based on a surrogate model with similarity measurement,". *IEEE Transactions on Cybernetics* **(Submited on Jul. 10, 2024 \| Trans \| SCI \| CAS Q1 (2024) \| JCR Q1 \| IF: 9.4 \| CCF-B)** [[Open PDF after acceptance]]()
-- 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrnate Neri,"Multi-objective neural architecture search as bilevel optimisation: A novel surrogate approach,". *IEEE Transactions on Evolutionary Computation* **(Submited on Jul. 29, 2024 \| Trans \| SCI \| CAS Q1 (2024) \| JCR Q1 \| IF: 14.3 \| CCF-B)** [[Open PDF after acceptance]]()
 - 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrnate Neri,"Score predictor-assisted evolutionary neural architecture search,". *IEEE Transactions on Emerging Topics in Computational Intelligence* **(Submitted with major revision on Aug. 16, 2024 \| Trans \| SCI \| CAS Q3 (2024) \| JCR Q1 \| IF: 5.3)** [[Open PDF after acceptance]]()
 - 📜 **Paper:** Yu Xue, **Pengcheng Jiang**, "Multi-objective self-adaptive PSO for classification in intrusion detection with high-dimensional, unbalanced and cost-sensitive data,". *IEEE Transactions on Computational Social Systems* **(Submited on Aug. 16 2024 \| Trans \| SCI \| CAS Q1 \| JCR Q1 \| IF: 12.3 \| CCF-C)** [[Open PDF after acceptance]]()
-- 📜 **Paper (ZH):** **蒋鹏程**,薛羽.基于排序得分预测的演化神经架构搜索方法[J].*计算机学报* **(Under 3rd review on Jul. 1, 2024 \| CCF-A)** [[Open PDF after acceptance]]()
+- 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrnate Neri,"Multi-objective neural architecture search as bilevel optimisation: A novel surrogate approach,". *IEEE Transactions on Evolutionary Computation* **(Submited on Jul. 29, 2024 \| Trans \| SCI \| CAS Q1 (2024) \| JCR Q1 \| IF: 14.3 \| CCF-B)** [[Open PDF after acceptance]]()
+- 📜 **Paper:** Yu Xue, **Pengcheng Jiang**, Zhenman Zhang, Mengchu Zhou,"Neural architecture search based on a surrogate model with similarity measurement,". *IEEE Transactions on Cybernetics* **(Submited on Jul. 10, 2024 \| Trans \| SCI \| CAS Q1 (2024) \| JCR Q1 \| IF: 9.4 \| CCF-B)** [[Open PDF after acceptance]]()
 <!--  - 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrnate Neri, Ziming Yuan,"CoAM: Confidence attention module for deep convolutional,". **(Under modification)** [[Open PDF after acceptance]]()   -->
 
 
 ### Published
+- 📜 **Paper:** **Pengcheng Jiang**, Ferrnate Neri, Yu Xue, Ujjwal Maulik, "A generalised attention mechanism to enhance the accuracy performance of neural networks,". *International Journal of Neural Systems*, 2024. [DOI: 10.1142/S0129065724500631](https://doi.org/10.1142/S0129065724500631) **(Accepted, SCI \| CAS Q2 \| JCR Q1 (2024) \| IF: 6.6)** [[Download PDF]](https://www.worldscientific.com/doi/abs/10.1142/S0129065724500631)
+- 📜 **Paper (ZH):** **蒋鹏程**,薛羽.基于排序得分预测的演化神经架构搜索方法[J].*计算机学报* **(Accepted \| CCF-A)** [[Open PDF after acceptance]]()
 - 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrnate Neri, Mohamed Wahib, "Surrogate-assisted evolutionary neural architecture search with isomorphic training and prediction,". in *2024 International Conference on Intelligent Computing (ICIC)*, 2024, vol. 14863, pp. 191–203. [DOI: 10.1007/978-981-97-5581-3_16](https://doi.org/10.1007/978-981-97-5581-3_16) **(CCF-C)** [[Download PDF]](https://link.springer.com/content/pdf/10.1007/978-981-97-5581-3_16.pdf)
-- 📜 **Paper:** **Pengcheng Jiang**, Ferrnate Neri, Yu Xue, Ujjwal Maulik, "A generalised attention mechanism to enhance the accuracy performance of neural networks,". *International Journal of Neural Systems*, 2024. [DOI: 10.1142/S0129065724500631](https://doi.org/10.1142/S0129065724500631) **(SCI \| CAS Q2 \| JCR Q1 (2024) \| IF: 6.6)** [[Download PDF]](https://www.worldscientific.com/doi/abs/10.1142/S0129065724500631)
 - 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrnate Neri, "Continuously evolving Dropout with multi-objective evolutionary optimization,". *Engineering Applications of Artificial Intelligence*, vol. 124, p. 106504, 2023, [DOI: 10.1016/j.engappai.2023.106504](https://doi.org/10.1016/j.engappai.2023.106504). **(SCI \| CAS Q1 TOP (2023) \| JCR Q1 \| IF: 8 \| CCF-C \| Cited: 4)** [[Download PDF]](http://42.192.94.151/cv_files/1-s2.0-S0952197623006887-main.pdf)
 - 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrnate Neri, “Convolutional neural network pruning based on multi-objective feature map selection for image classification,” *Applied Soft Computing*, p. 110229, 2023, [DOI: 10.1016/10.1016/j.asoc.2023.110229](https://doi.org/10.1016/j.asoc.2023.110229). **(SCI \| CAS Q1 TOP (2023) \| JCR Q1 \| IF: 8.7 \| Cited: 19)** [[Download PDF]](http://42.192.94.151/cv_files/1-s2.0-S1568494623002478-main.pdf)
 - 📜 **Paper:** Yu Xue, **Pengcheng Jiang**, Ferrnate Neri, Jiayu Liang, "A multi-objective evolutionary approach based on graph-in-graph for neural architecture search of convolutional neural networks,". *International Journal of Neural Systems*, vol. 31, no. 09, p. 2150035, 2021, [DOI: 10.1142/S0129065721500350](https://doi.org/10.1142/S0129065721500350). **(First author except teacher \| SCI \| CAS Q2 (2021) \| JCR Q1 \| IF: 6.325 \| Cited: 101)** [[Download PDF]](http://42.192.94.151/cv_files/s0129065721500350.pdf)
@@ -87,6 +87,9 @@ Served as a reviewer for the following journals:
 - 📙 PeerJ Computer Science (SCI, IF:3.8)
 - 📙 CMC-Computers Materials & Continua (SCI, IF:3.1)
 - 📙 Knowledge and Information Systems (SCI, IF:2.7)
+- 📙 Neural Processing Letters (SCI, IF:2.6)
+- 📙 Peer-to-Peer Networking and Applications (SCI, IF:3.3)
+
 
 Served as a session chair for the following conferences:
 - 📃 "Nature-Inspired Intelligent Computing, Optimization and Applications" in *2024 International Conference on Intelligent Computing (ICIC)* 

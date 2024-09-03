@@ -52,20 +52,20 @@ redirect_from:
 
 
 <span class='anchor' id='-achievements'></span>
-# 📝 科研成果（更新于2024/8/20）
+# 📝 科研成果（更新于2024/9/2）
 ### 正在审理/修改
 - 📜 **论文：****Pengcheng Jiang**, Yu Xue, Zhongyuan Hu, Bing Xue, Mengjie Zhang. Surrogate-assisted performance ranking for evolutionary deep neural architecture search[J]. *IEEE Transactions on Knowledge and Data Engineering* **(初稿修改中，Trans，SCI，中科院一区TOP，JCR分区Q1，IF：8.9，CCF-A)** [[录用后公开PDF]]()
-- 📜 **论文：**Yu Xue, **Pengcheng Jiang**, Zhenman Zhang, Mengchu Zhou. Neural architecture search based on a surrogate model with similarity measurement[J]. *IEEE Transactions on Cybernetics* **(除老师外一作，2024年7月10日投稿，Trans，SCI，中科院一区TOP，JCR分区Q1，IF：9.4，CCF-B)** [[录用后公开PDF]]()
-- 📜 **论文：****Pengcheng Jiang**, Yu Xue, Ferrnate Neri. Multi-objective neural architecture search as bilevel optimisation: A novel surrogate approach[J]. *IEEE Transactions on Evolutionary Computation* **(2024年7月29日投稿，Trans，SCI，中科院一区TOP，JCR分区Q1，IF：11.7，CCF-B)** [[录用后公开PDF]]()
 - 📜 **论文：****Pengcheng Jiang**, Yu Xue, Ferrnate Neri. Score predictor-assisted evolutionary neural architecture search[J]. *IEEE Transactions on Emerging Topics in Computational Intelligence* **(2024年8月16日提交大修修改稿，Trans，SCI，中科院三区，JCR分区Q1，IF：5.3)** [[录用后公开PDF]]()
 - 📜 **论文：**Yu Xue, **Pengcheng Jiang**. Multi-objective self-adaptive PSO for classification in intrusion detection with high-dimensional, unbalanced and cost-sensitive data[J]. *IEEE Transactions on Industrial Informatics* **(2024年8月16日投稿，Trans，SCI，中科院一区TOP，JCR分区Q1，IF：12.3，CCF-C)** [[录用后公开PDF]]()
-- 📜 **论文：****蒋鹏程**,薛羽.基于排序得分预测的演化神经架构搜索方法[J].*计算机学报* **(2024年7月1日提交二轮修改稿，中文核心，CCF-A)** [[录用后公开PDF]]()
+- 📜 **论文：**Yu Xue, **Pengcheng Jiang**, Zhenman Zhang, Mengchu Zhou. Neural architecture search based on a surrogate model with similarity measurement[J]. *IEEE Transactions on Cybernetics* **(除老师外一作，2024年7月10日投稿，Trans，SCI，中科院一区TOP，JCR分区Q1，IF：9.4，CCF-B)** [[录用后公开PDF]]()
+- 📜 **论文：****Pengcheng Jiang**, Yu Xue, Ferrnate Neri. Multi-objective neural architecture search as bilevel optimisation: A novel surrogate approach[J]. *IEEE Transactions on Evolutionary Computation* **(2024年7月29日投稿，Trans，SCI，中科院一区TOP，JCR分区Q1，IF：11.7，CCF-B)** [[录用后公开PDF]]()
 <!--  - 📜 **论文:** Yu Xue, **Pengcheng Jiang**, Ferrnate Neri, Ziming Yuan,"CoAM: Confidence attention module for deep convolutional,". **(修改中)**[[录用后公开PDF]]()   -->
 
 
 ### 已发表/出版
+- 📜 **论文：****Pengcheng Jiang**, Ferrnate Neri, Yu Xue, Ujjwal Maulik. A generalised attention mechanism to enhance the accuracy performance of neural networks[J]. *International Journal of Neural Systems*, 2024. [DOI: 10.1142/S0129065724500631](https://doi.org/10.1142/S0129065724500631)  **(已接受，SCI，中科院二区，JCR分区Q1，IF2024：6.6)** [[下载PDF]](https://www.worldscientific.com/doi/abs/10.1142/S0129065724500631)
+- 📜 **论文：****蒋鹏程**,薛羽.基于排序得分预测的演化神经架构搜索方法[J].*计算机学报* **(已接受，中文核心，CCF-A)** [[录用后公开PDF]]()
 - 📜 **论文：****Pengcheng Jiang**, Yu Xue, Ferrnate Neri, Mohamed Wahib. Surrogate-assisted evolutionary neural architecture search with isomorphic training and prediction[C]//*2024 International Conference on Intelligent Computing (ICIC)*. Tianjing, China: Springer Nature, 2024, 14863: 191–203. [DOI: 10.1007/978-981-97-5581-3_16](https://doi.org/10.1007/978-981-97-5581-3_16) **(国际会议，CCF-C)** [[下载PDF]](https://link.springer.com/content/pdf/10.1007/978-981-97-5581-3_16.pdf)
-- 📜 **论文：****Pengcheng Jiang**, Ferrnate Neri, Yu Xue, Ujjwal Maulik. A generalised attention mechanism to enhance the accuracy performance of neural networks[J]. *International Journal of Neural Systems*, 2024. [DOI: 10.1142/S0129065724500631](https://doi.org/10.1142/S0129065724500631)  **(SCI，中科院二区，JCR分区Q1，IF2024：6.6)** [[下载PDF]](https://www.worldscientific.com/doi/abs/10.1142/S0129065724500631)
 - 📜 **论文：****Pengcheng Jiang**, Yu Xue, Ferrnate Neri. Continuously evolving dropout with multi-objective evolutionary optimisation[J]. *Engineering Applications of Artificial Intelligence*, 2023, 124: 106504. [DOI: 10.1016/j.engappai.2023.106504](https://doi.org/10.1016/j.engappai.2023.106504) **(SCI，2023中科院一区TOP，JCR分区Q1，IF2023：7.5，CCF-C，被引次数4)** [[下载PDF]](http://42.192.94.151/cv_files/1-s2.0-S0952197623006887-main.pdf)
 - 📜 **论文：****Pengcheng Jiang**, Yu Xue, Ferrnate Neri. Convolutional neural network pruning based on multi-objective feature map selection for image classification[J]. *Applied Soft Computing*, 2023: 110229. [DOI: 10.1016/j.asoc.2023.110229](https://doi.org/10.1016/j.asoc.2023.110229) **(SCI，2022中科院一区TOP，JCR分区Q1，IF2023：7.2，被引次数19)** [[下载PDF]](http://42.192.94.151/cv_files/1-s2.0-S1568494623002478-main.pdf)
 - 📜 **论文：**Yu Xue, **Pengcheng Jiang**, Ferrnate Neri, Jiayu Liang. A multi-objective evolutionary approach based on graph-in-graph for neural architecture search of convolutional neural networks[J]. *International Journal of Neural Systems*, 2021, 31(09): 2150035. [DOI: 10.1142/S0129065721500350](https://doi.org/10.1142/S0129065721500350) **(除老师外一作，SCI，2021年中科院一区TOP，JCR分区Q1，IF2021：6.325，被引次数101)** [[下载PDF]](http://42.192.94.151/cv_files/s0129065721500350.pdf)
@@ -87,6 +87,8 @@ redirect_from:
 - 📙 PeerJ Computer Science (SCI三区，IF:3.8)
 - 📙 CMC-Computers Materials & Continua (SCI三区，IF:3.1)
 - 📙 Knowledge and Information Systems (SCI四区，IF:2.7)
+- 📙 Peer-to-Peer Networking and Applications (SCI四区，IF:3.3)
+
 
 担任以下会议的分会主席 (Session Chair)：
 - 📃 “Nature-Inspired Intelligent Computing, Optimization and Applications” in *2024 International Conference on Intelligent Computing (ICIC)* 

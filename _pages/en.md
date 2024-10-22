@@ -14,6 +14,27 @@ author_profile: true
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<style>
+.tag {
+    background-color: #FFD88E; /* 淡橘红色背景 */
+    color: black; /* 黑色字体 */
+    padding: 3px 6px; /* 更小的内边距 */
+    border-radius: 10px; /* 圆角 */
+    font-size: 12px; /* 更小的字体大小 */
+    display: inline-block; /* 允许在文本后方 */
+    margin-left: 5px; /* 标签与文本之间的间距 */
+}
+
+.tagh {
+    background-color: #FFB9A2; /* 淡橘红色背景 */
+    color: black; /* 黑色字体 */
+    padding: 3px 6px; /* 更小的内边距 */
+    border-radius: 10px; /* 圆角 */
+    font-size: 12px; /* 更小的字体大小 */
+    display: inline-block; /* 允许在文本后方 */
+    margin-left: 5px; /* 标签与文本之间的间距 */
+}
+</style>
 
 <span class='anchor' id='about-me'></span>
 # 😉 About me

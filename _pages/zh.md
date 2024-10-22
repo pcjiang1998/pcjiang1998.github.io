@@ -24,7 +24,7 @@ redirect_from:
     display: inline-block; /* 允许在文本后方 */
     margin-left: 5px; /* 标签与文本之间的间距 */
 }
-<style>
+
 .tagh {
     background-color: #FFB9A2; /* 淡橘红色背景 */
     color: black; /* 黑色字体 */

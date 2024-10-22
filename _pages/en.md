@@ -33,7 +33,7 @@ My research direction is **Evolutionary Deep Learning**, mainly including **Neur
 <span class='anchor' id='-awards'></span>
 # 🎖 Awards
 ### During the period of Ph.D
-- *2024.10*, NUIST Graduate "Puxin" Elite Scholarship (A total of 13 students from the entire school related to integrated circuit engineering are selected.)
+- *2024.10*, NUIST Graduate "Puxin" Elite Scholarship (A total of 10 students from the entire school related to integrated circuit engineering are selected.)
 - *2024.10*, NUIST "Excellent Scholarship for Graduate Students and Academic Scholarship" **2nd prize** **<font color="red">(2/8，<5%)</font>**
 - *2023.12* 2022-2023 Graduate "Qi'anxin Scholarship"
 - *2023.12*, NUIST "Merit Graduate Student"
@@ -82,16 +82,16 @@ My research direction is **Evolutionary Deep Learning**, mainly including **Neur
 <span class='anchor' id='-services'></span>
 # 📌 Services
 Served as a reviewer for the following journals:
-- 📙 IEEE Transactions on Neural Networks and Learning Systems (SCI, IF:10.2)
-- 📙 IEEE Transactions on Industrial Informatics (SCI, IF:11.7)
-- 📙 Information Sciences (SCI, IF:8.1)
-- 📙 Scientific Reports (SCI，IF:3.8)
-- 📙 Journal of Supercomputing (SCI, IF:3.3)
-- 📙 PeerJ Computer Science (SCI, IF:3.8)
-- 📙 CMC-Computers Materials & Continua (SCI, IF:3.1)
-- 📙 Knowledge and Information Systems (SCI, IF:2.7)
-- 📙 Neural Processing Letters (SCI, IF:2.6)
-- 📙 Peer-to-Peer Networking and Applications (SCI, IF:3.3)
+- 📙 IEEE Transactions on Neural Networks and Learning Systems <span class="tag">SCI</span><span class="tag">IF:10.2</span>
+- 📙 IEEE Transactions on Industrial Informatics <span class="tag">SCI</span><span class="tag">IF:11.7</span>
+- 📙 Information Sciences <span class="tag">SCI</span><span class="tag">IF:8.1</span>
+- 📙 Scientific Reports <span class="tag">SCI</span><span class="tag">IF:3.8</span>
+- 📙 Journal of Supercomputing <span class="tag">SCI</span><span class="tag">IF:3.3</span>
+- 📙 PeerJ Computer Science <span class="tag">SCI</span><span class="tag">IF:3.8</span>
+- 📙 CMC-Computers Materials & Continua <span class="tag">SCI</span><span class="tag">IF:3.1</span>
+- 📙 Knowledge and Information Systems <span class="tag">SCI</span><span class="tag">IF:2.7</span>
+- 📙 Neural Processing Letters <span class="tag">SCI</span><span class="tag">IF:2.6</span>
+- 📙 Peer-to-Peer Networking and Applications <span class="tag">SCI</span><span class="tag">IF:3.3</span>
 
 
 Served as a session chair for the following conferences:

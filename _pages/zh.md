@@ -16,7 +16,7 @@ redirect_from:
 
 <style>
 .tag {
-    background-color: #FFFABB; /* 淡橘红色背景 */
+    background-color: #FFD88E; /* 淡橘红色背景 */
     color: black; /* 黑色字体 */
     padding: 3px 6px; /* 更小的内边距 */
     border-radius: 10px; /* 圆角 */
@@ -26,7 +26,7 @@ redirect_from:
 }
 <style>
 .tagh {
-    background-color: #ffccbc; /* 淡橘红色背景 */
+    background-color: #FFB9A2; /* 淡橘红色背景 */
     color: black; /* 黑色字体 */
     padding: 3px 6px; /* 更小的内边距 */
     border-radius: 10px; /* 圆角 */
@@ -54,7 +54,7 @@ redirect_from:
 <span class='anchor' id='-awards'></span>
 # 🎖 获奖
 ### 博士期间
-- *2024.10* 南京信息工程大学研究生“浦芯”精英奖学金 **<font color="red">（全校集成电路相关工科研究生共评选13人）</font>**
+- *2024.10* 南京信息工程大学研究生“浦芯”精英奖学金 **<font color="red">（全校集成电路相关工科研究生共评选10人）</font>**
 - *2024.10* 南京信息工程大学“研究生优秀奖学金、学业奖学金” **二等奖** **<font color="red">（2/8，<5%）</font>**
 - *2023.12* 2022-2023学年研究生“奇安信奖学金”
 - *2023.12* 南京信息工程大学“**三好研究生**”
@@ -103,15 +103,16 @@ redirect_from:
 <span class='anchor' id='-services'></span>
 # 📌 社会服务
 担任以下期刊的审稿人：
-- 📙 IEEE Transactions on Neural Networks and Learning Systems (SCI一区，IF:10.2)
-- 📙 IEEE Transactions on Industrial Informatics (SCI一区，IF:11.7)
-- 📙 Information Sciences (SCI一区，IF:8.1)
-- 📙 Scientific Reports (SCI二区，IF:3.8)
-- 📙 Journal of Supercomputing (SCI三区，IF:3.3)
-- 📙 PeerJ Computer Science (SCI三区，IF:3.8)
-- 📙 CMC-Computers Materials & Continua (SCI三区，IF:3.1)
-- 📙 Knowledge and Information Systems (SCI四区，IF:2.7)
-- 📙 Peer-to-Peer Networking and Applications (SCI四区，IF:3.3)
+- 📙 IEEE Transactions on Neural Networks and Learning Systems <span class="tag">SCI一区</span><span class="tag">IF:10.2</span>
+- 📙 IEEE Transactions on Industrial Informatics <span class="tag">SCI一区</span><span class="tag">IF:11.7</span>
+- 📙 Information Sciences <span class="tag">SCI一区</span><span class="tag">IF:8.1</span>
+- 📙 Scientific Reports <span class="tag">SCI二区</span><span class="tag">IF:3.8</span>
+- 📙 Journal of Supercomputing <span class="tag">SCI三区</span><span class="tag">IF:3.3</span>
+- 📙 PeerJ Computer Science <span class="tag">SCI三区</span><span class="tag">IF:3.8</span>
+- 📙 CMC-Computers Materials & Continua <span class="tag">SCI三区</span><span class="tag">IF:3.1</span>
+- 📙 Knowledge and Information Systems <span class="tag">SCI四区</span><span class="tag">IF:2.7</span>
+- 📙 Neural Processing Letters <span class="tag">SCI四区</span><span class="tag">IF:2.6</span>
+- 📙 Peer-to-Peer Networking and Applications <span class="tag">SCI四区</span><span class="tag">IF:3.3</span>
 
 
 担任以下会议的分会主席 (Session Chair)：

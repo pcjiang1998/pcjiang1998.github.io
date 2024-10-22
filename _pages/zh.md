@@ -15,11 +15,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <style>
-.text-with-tag {
-    position: relative;
-}
-
-.text-with-tag span {
+.tag {
     background-color: #ffccbc; /* 淡橘红色背景 */
     color: black; /* 黑色字体 */
     padding: 3px 6px; /* 更小的内边距 */
@@ -27,20 +23,6 @@ redirect_from:
     font-size: 12px; /* 更小的字体大小 */
     display: inline-block; /* 允许在文本后方 */
     margin-left: 5px; /* 标签与文本之间的间距 */
-}
-
-.text-with-tag::after {
-    content: "标签 1"; /* 或 "标签 2" 根据需要修改 */
-    background-color: #ffccbc; /* 淡橘红色背景 */
-    color: black; /* 黑色字体 */
-    padding: 3px 6px; /* 更小的内边距 */
-    border-radius: 10px; /* 圆角 */
-    font-size: 12px; /* 更小的字体大小 */
-    display: inline-block; /* 允许在文本后方 */
-    margin-left: 5px; /* 标签与文本之间的间距 */
-    position: absolute; /* 绝对定位 */
-    right: -50px; /* 根据需要调整位置 */
-    top: 0; /* 根据需要调整位置 */
 }
 </style>
 
@@ -85,7 +67,7 @@ redirect_from:
 <span class='anchor' id='-achievements'></span>
 # 📝 科研成果（更新于2024/9/2）
 ### 正在审理/修改
-- 📜 **论文：****Pengcheng Jiang**, Yu Xue, Zhongyuan Hu, Bing Xue, Mengjie Zhang. Surrogate-assisted performance ranking for evolutionary deep neural architecture search[J]. *IEEE Transactions on Knowledge and Data Engineering* (初稿修改中) [[录用后公开PDF]]()<span>Trans</span><span>SCI</span><span>中科院一区TOP</span><span>JCR Q1</span><span>IF：8.9</span><span>CCF-A</span>
+- 📜 **论文：****Pengcheng Jiang**, Yu Xue, Zhongyuan Hu, Bing Xue, Mengjie Zhang. Surrogate-assisted performance ranking for evolutionary deep neural architecture search[J]. *IEEE Transactions on Knowledge and Data Engineering* (初稿修改中) [[录用后公开PDF]]()<span class="tag">Trans</span><span class="tag">SCI</span><span class="tag">中科院一区TOP</span><span class="tag">JCR Q1</span><span class="tag">IF：8.9</span><span class="tag">CCF-A</span>
 - 📜 **论文：****Pengcheng Jiang**, Yu Xue, Ferrante Neri. Score predictor-assisted evolutionary neural architecture search[J]. *IEEE Transactions on Emerging Topics in Computational Intelligence* **(2024年8月16日提交大修修改稿，Trans，SCI，中科院三区，JCR分区Q1，IF：5.3)** [[录用后公开PDF]]()
 - 📜 **论文：**Yu Xue, **Pengcheng Jiang**. Multi-objective self-adaptive PSO for classification in intrusion detection with high-dimensional, unbalanced and cost-sensitive data[J]. *IEEE Transactions on Industrial Informatics* **(2024年8月16日投稿，Trans，SCI，中科院一区TOP，JCR分区Q1，IF：12.3，CCF-C)** [[录用后公开PDF]]()
 - 📜 **论文：**Yu Xue, **Pengcheng Jiang**, Zhenman Zhang, Mengchu Zhou. Neural architecture search based on a surrogate model with similarity measurement[J]. *IEEE Transactions on Cybernetics* **(除老师外一作，2024年7月10日投稿，Trans，SCI，中科院一区TOP，JCR分区Q1，IF：9.4，CCF-B)** [[录用后公开PDF]]()

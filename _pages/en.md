@@ -105,6 +105,7 @@ My research direction is **Evolutionary Deep Learning**, mainly including **Neur
 Served as a reviewer for the following journals:
 - 📙 IEEE Transactions on Neural Networks and Learning Systems <span class="tag">SCI</span><span class="tag">IF:10.2</span>
 - 📙 IEEE Transactions on Industrial Informatics <span class="tag">SCI</span><span class="tag">IF:11.7</span>
+- 📙 Artificial Intelligence Review <span class="tag">SCI</span><span class="tag">IF:10.7</span>
 - 📙 Information Sciences <span class="tag">SCI</span><span class="tag">IF:8.1</span>
 - 📙 Scientific Reports <span class="tag">SCI</span><span class="tag">IF:3.8</span>
 - 📙 Journal of Supercomputing <span class="tag">SCI</span><span class="tag">IF:3.3</span>

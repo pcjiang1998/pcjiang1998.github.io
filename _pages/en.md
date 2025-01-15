@@ -151,10 +151,14 @@ Served as a reviewer for the following conferences:
 6. Familiar with **VS Code**, **Pycharm**, **Idea**, **Visual Studio**, **MyEclipse/Eclipse**, **Android Studio** and other IDEs.
 7. Have **good programming habits** and **good code rules** with **design patterns**. Familiar with **Git** and apply it on **version control** and **team collaboration**.
 8. Have rich experience in **cloud products**, once use **ECS**, **lightweight server**, **domain name resolution**, **machine translation API**, **picture recognition API** in **Aliyun**, **Tencent Cloud** and other platforms.
-
+9. Proficient in the use of Cloudflare's WARP Tunnel and other technologies.
+10. Familiar with Docker (Composer, BuilderX), SD-WAN, and other technologies.
 
 <span class='anchor' id='-projects'></span>
 # 💬 Projects
+#### *2021.09 ~ Now* A hybrid platform based on SDWAN and tunnel forwarding (For self use)
+**Intro:** This project is designed to cater to cross-campus and remote office applications, utilizing Zerotier to establish network routing for research groups across different campuses. It is further complemented by stable tunnel forwarding systems using Frp and Cloudflare Tunnel. Based on this foundation, we deploy services such as Emby, Sharelatex, One-api, and WebDAV with the integration of advanced technologies like Docker and SDWAN. The platform offers a range of functionalities including cross-campus access to large-scale computing resources of the research groups, support for online writing of private LaTeX cloud documents, utilization of the LLM API purchased by the research group with access control, online viewing of meetings and recorded courses, as well as synchronization of software information (incorporating WebDAV capabilities).
+
 #### *2020.01 ~ 2020.04*, Elevator PDF order (parameter table) extraction handler (Independently)
 **Intro:** This project is a personal project, from Changzhou XXX Company. The content for the development of a program that allows it to extract the scattered order list from the order of the PDF file format file and detailed information. Then the extrated order fitting parametersare combined with the parameters of the orders with detailed specifications, drawings link.
 

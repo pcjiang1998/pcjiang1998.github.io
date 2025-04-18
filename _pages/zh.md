@@ -50,8 +50,8 @@ redirect_from:
 # 📝 科研成果（更新于2025/1/15）
 ### 正在审理/修改
 - 📜 **论文：**Surrogate-assisted performance ranking for evolutionary deep neural architecture search[J]. (初稿修改中) [[录用后公开PDF]](#)
-- 📜 **论文：**Yu Xue, **Pengcheng Jiang**, Zhenman Zhang, Mengchu Zhou. Neural architecture search based on a surrogate model with similarity measurement[J]. *IEEE Transactions on Cybernetics* (2025年3月21日提交) [[录用后公开PDF]](#)<h1tag>除老师外一作</h1tag><h2tag>Trans</h2tag><h1tag>SCI</h1tag><h1tag>中科院一区TOP</h1tag><h1tag>JCR Q1</h1tag><h1tag>IF：9.4</h1tag><h1tag>CCF-B</h1tag> `123` ``234`` ```345```
-- 📜 **论文：****Pengcheng Jiang**, Yu Xue, Ferrante Neri, Yong Zhang, Dunwei Gong. Rank surrogate-assisted dual-level evolutionary multi-objective neural architecture search[J]. *IEEE Transactions on Knowledge and Data Engineering* (2025年3月19日投稿) [[录用后公开PDF]](#)<span class="tagh">Trans</span><span class="tag">SCI</span><span class="tag">中科院一区TOP</span><span class="tag">JCR Q1</span><span class="tag">IF：9.4</span><span class="tag">CCF-B</span>
+- 📜 **论文：**Yu Xue, **Pengcheng Jiang**, Zhenman Zhang, Mengchu Zhou. Neural architecture search based on a surrogate model with similarity measurement[J]. *IEEE Transactions on Cybernetics* (2025年3月21日提交) [[录用后公开PDF]](#) ``除老师外一作`` ``Trans`` ``SCI`` ``中科院一区TOP`` ``JCR Q1`` ``IF：9.4`` ``CCF-B``
+- 📜 **论文：****Pengcheng Jiang**, Yu Xue, Ferrante Neri, Yong Zhang, Dunwei Gong. Rank surrogate-assisted dual-level evolutionary multi-objective neural architecture search[J]. *IEEE Transactions on Knowledge and Data Engineering* (2025年3月19日投稿) [[录用后公开PDF]](#) ``Trans`` ``SCI`` ``中科院一区TOP`` ``JCR Q1`` ``IF：9.4`` ``CCF-B``
 - 📜 **论文：**Yu Xue, Chenchen Zhu, **Pengcheng Jiang**. A Multi-objective Evolutionary Algorithm Based on Bi-population with Uniform Sampling for Neural Architecture Search[J]. *IEEE Transactions on Knowledge and Data Engineering* (2025年3月12日投稿) [[录用后公开PDF]](#)<span class="tagh">Trans</span><span class="tag">SCI</span><span class="tag">中科院二区TOP</span><span class="tag">JCR Q1</span><span class="tag">IF：8.9</span><span class="tag">CCF-A</span>
 - 📜 **论文：** Yixia Zhang, ~, ~, **Pengcheng Jiang**. Evolutionary ~ ~ ~ ~ ~ ~ ~[C]. *2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition* (2025年3月21日投稿) [[录用后公开PDF]](#)<span class="tag">CCF-A</span>
 - 📜 **论文：**Yu Xue, **Pengcheng Jiang**, Yandan Xu. Multi-objective self-adaptive PSO for classification in intrusion detection with high-dimensional, unbalanced and cost-sensitive data[J]. *Information Sciences* (2025年3月4日投稿) [[录用后公开PDF]](#)<span class="tag">SCI</span><span class="tag">中科院一区TOP</span><span class="tag">JCR Q1</span><span class="tag">IF：8.1</span><span class="tag">CCF-B</span>
@@ -78,27 +78,27 @@ redirect_from:
 <span class='anchor' id='-services'></span>
 # 📌 社会服务
 担任以下期刊的审稿人：
-- 📙 IEEE Transactions on Neural Networks and Learning Systems <span class="tag">SCI一区</span><span class="tag">IF:10.2</span>
-- 📙 IEEE Transactions on Industrial Informatics <span class="tag">SCI一区</span><span class="tag">IF:11.7</span>
-- 📙 Artificial Intelligence Review <span class="tag">SCI二区</span><span class="tag">IF:10.7</span>
-- 📙 Information Sciences <span class="tag">SCI一区</span><span class="tag">IF:8.1</span>
-- 📙 Scientific Reports <span class="tag">SCI二区</span><span class="tag">IF:3.8</span>
-- 📙 Journal of Supercomputing <span class="tag">SCI三区</span><span class="tag">IF:3.3</span>
-- 📙 PeerJ Computer Science <span class="tag">SCI三区</span><span class="tag">IF:3.8</span>
-- 📙 CMC-Computers Materials & Continua <span class="tag">SCI三区</span><span class="tag">IF:3.1</span>
-- 📙 Knowledge and Information Systems <span class="tag">SCI四区</span><span class="tag">IF:2.7</span>
-- 📙 Neural Processing Letters <span class="tag">SCI四区</span><span class="tag">IF:2.6</span>
-- 📙 Peer-to-Peer Networking and Applications <span class="tag">SCI四区</span><span class="tag">IF:3.3</span>
+- 📙 IEEE Transactions on Neural Networks and Learning Systems ``SCI一区`` ``IF:10.2``
+- 📙 IEEE Transactions on Industrial Informatics ``SCI一区`` ``IF:11.7``
+- 📙 Artificial Intelligence Review ``SCI二区`` ``IF:10.7``
+- 📙 Information Sciences ``SCI一区`` ``IF:8.1``
+- 📙 Scientific Reports ``SCI二区`` ``IF:3.8``
+- 📙 Journal of Supercomputing ``SCI三区`` ``IF:3.3``
+- 📙 PeerJ Computer Science ``SCI三区`` ``IF:3.8``
+- 📙 CMC-Computers Materials & Continua ``SCI三区`` ``IF:3.1``
+- 📙 Knowledge and Information Systems ``SCI四区`` ``IF:2.7``
+- 📙 Neural Processing Letters ``SCI四区`` ``IF:2.6``
+- 📙 Peer-to-Peer Networking and Applications ``SCI四区`` ``IF:3.3``
 
 
 担任以下会议的分会主席 (Session Chair)：
-- 📃 “Nature-Inspired Intelligent Computing, Optimization and Applications” in *2024 International Conference on Intelligent Computing (ICIC)* 
+- 📃 “Nature-Inspired Intelligent Computing, Optimization and Applications” in *2024 International Conference on Intelligent Computing (ICIC)* ``CCF-C``
 
 担任以下会议的审稿人：
 - 📃 7th International Conference on Artificial Intelligence and Security
 - 📃 8th International Conference on Artificial Intelligence and Security
 - 📃 2024 IEEE Conference on Artificial Intelligence (IEEE CAI 2024)
-- 📃 2024 International Joint Conference on Neural Networks (IEEE IJCNN 2024)
+- 📃 2024 International Joint Conference on Neural Networks (IEEE IJCNN 2024) ``CCF-C``
 
 <span class='anchor' id='-grants'></span>
 # 💬 项目经历

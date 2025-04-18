@@ -108,7 +108,7 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-.tag {
+h1tag {
     background-color: #FFD88E; /* 淡橘红色背景 */
     color: black; /* 黑色字体 */
     padding: 3px 6px; /* 更小的内边距 */
@@ -118,7 +118,7 @@ h1:before, .anchor:before {
     margin-left: 5px; /* 标签与文本之间的间距 */
 }
 
-.tagh {
+h2tag {
     background-color: #FFB9A2; /* 深橘红色背景 */
     color: black; /* 黑色字体 */
     padding: 3px 6px; /* 更小的内边距 */

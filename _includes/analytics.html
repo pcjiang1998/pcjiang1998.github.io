@@ -9,48 +9,4 @@
 
   gtag('config', "{{ site.google_analytics_id }}");
 </script>
-
-<script>
-    class TagElement extends HTMLElement {
-        constructor() {
-            super(); // 必须首先调用 super()
-            // 元素初始化逻辑可以放在这里
-        }
-        disconnectedCallback() {
-            // 当元素从文档 DOM 中移除时调用
-        }
-        attributeChangedCallback(name, oldValue, newValue) {
-            // 当元素属性被添加、移除、更新时调用
-            // name: 属性名字符串
-            // oldValue: 属性之前的旧值
-            // newValue: 属性的新值
-        }
-        static get observedAttributes() {
-            // 返回您希望 attributeChangedCallback 观察的属性名称数组
-            return []; // 例如: return ['theme', 'size'];
-        }
-    }
-    class TaghElement extends HTMLElement {
-        constructor() {
-            super(); // 必须首先调用 super()
-            // 元素初始化逻辑可以放在这里
-        }
-        disconnectedCallback() {
-            // 当元素从文档 DOM 中移除时调用
-        }
-        attributeChangedCallback(name, oldValue, newValue) {
-            // 当元素属性被添加、移除、更新时调用
-            // name: 属性名字符串
-            // oldValue: 属性之前的旧值
-            // newValue: 属性的新值
-        }
-        static get observedAttributes() {
-            // 返回您希望 attributeChangedCallback 观察的属性名称数组
-            return []; // 例如: return ['theme', 'size'];
-        }
-    }
-    customElements.define('tag', TagElement);
-    customElements.define('tagh', TaghElement);
-</script>
-
 {% endif %}

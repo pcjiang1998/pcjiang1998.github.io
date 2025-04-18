@@ -26,7 +26,7 @@ redirect_from:
 }
 
 .tagh {
-    background-color: #FFB9A2; /* 淡橘红色背景 */
+    background-color: #FFB9A2; /* 深橘红色背景 */
     color: black; /* 黑色字体 */
     padding: 3px 6px; /* 更小的内边距 */
     border-radius: 10px; /* 圆角 */
@@ -79,7 +79,7 @@ redirect_from:
 # 📝 科研成果（更新于2025/1/15）
 ### 正在审理/修改
 - 📜 **论文：****Pengcheng Jiang**, Yu Xue, Bing Xue, Mengjie Zhang. Surrogate-assisted performance ranking for evolutionary deep neural architecture search[J]. (初稿修改中) [[录用后公开PDF]](#)
-- 📜 **论文：**Yu Xue, **Pengcheng Jiang**, Zhenman Zhang, Mengchu Zhou. Neural architecture search based on a surrogate model with similarity measurement[J]. *IEEE Transactions on Cybernetics* (2025年3月21日提交) [[录用后公开PDF]](#)<span class="tag">除老师外一作</span><span class="tagh">Trans</span><span class="tag">SCI</span><span class="tag">中科院一区TOP</span><span class="tag">JCR Q1</span><span class="tag">IF：9.4</span><span class="tag">CCF-B</span>
+- 📜 **论文：**Yu Xue, **Pengcheng Jiang**, Zhenman Zhang, Mengchu Zhou. Neural architecture search based on a surrogate model with similarity measurement[J]. *IEEE Transactions on Cybernetics* (2025年3月21日提交) [[录用后公开PDF]](#)<span class="tag">除老师外一作</span><span class="tagh">Trans</span><span class="tag">SCI</span><span class="tag">中科院一区TOP</span><span class="tag">JCR Q1</span><span class="tag">IF：9.4</span><span class="tag">CCF-B</span>``CCF-B``
 - 📜 **论文：****Pengcheng Jiang**, Yu Xue, Ferrante Neri, Yong Zhang, Dunwei Gong. Rank surrogate-assisted dual-level evolutionary multi-objective neural architecture search[J]. *IEEE Transactions on Knowledge and Data Engineering* (2025年3月19日投稿) [[录用后公开PDF]](#)<span class="tagh">Trans</span><span class="tag">SCI</span><span class="tag">中科院一区TOP</span><span class="tag">JCR Q1</span><span class="tag">IF：9.4</span><span class="tag">CCF-B</span>
 - 📜 **论文：**Yu Xue, Chenchen Zhu, **Pengcheng Jiang**. A Multi-objective Evolutionary Algorithm Based on Bi-population with Uniform Sampling for Neural Architecture Search[J]. *IEEE Transactions on Knowledge and Data Engineering* (2025年3月12日投稿) [[录用后公开PDF]](#)<span class="tagh">Trans</span><span class="tag">SCI</span><span class="tag">中科院二区TOP</span><span class="tag">JCR Q1</span><span class="tag">IF：8.9</span><span class="tag">CCF-A</span>
 - 📜 **论文：** Yixia Zhang, ~, ~, **Pengcheng Jiang**. Evolutionary ~ ~ ~ ~ ~ ~ ~[C]. *2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition* (2025年3月21日投稿) [[录用后公开PDF]](#)<span class="tag">CCF-A</span>

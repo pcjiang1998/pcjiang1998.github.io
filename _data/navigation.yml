@@ -8,9 +8,9 @@ main:
     title_en: "Educations"
     title_zh: "教育经历"
 
-  - url: "#-skills"
-    title_en: "Skills"
-    title_zh: "技术优势"
+  - url: "#-awards"
+    title_en: "Awards"
+    title_zh: "获奖"
 
   - url: "#-achievements" 
     title_en: "Scientific Achievements"
@@ -20,10 +20,12 @@ main:
     title_en: "Services"
     title_zh: "社会服务"
 
+  - url: "#-skills"
+    title_en: "Skills"
+    title_zh: "技术优势"
+
   - url: "#-projects"
     title_en: "Projects"
     title_zh: "项目经历"
 
-  - url: "#-awards"
-    title_en: "Awards"
-    title_zh: "获奖"
+

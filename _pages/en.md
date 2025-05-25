@@ -1,5 +1,5 @@
 ---
-permalink: /en
+permalink: /en.html
 title: ""
 excerpt: ""
 author_profile: true

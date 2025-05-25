@@ -1,5 +1,5 @@
 ---
-permalink: /zh
+permalink: /zh.html
 title: ""
 excerpt: ""
 author_profile: true
@@ -101,11 +101,12 @@ redirect_from:
 - 📃 8th International Conference on Artificial Intelligence and Security
 - 📃 2024 IEEE Conference on Artificial Intelligence (IEEE CAI 2024)
 - 📃 2024 International Joint Conference on Neural Networks (IEEE IJCNN 2024) ``CCF-C``
+- 📃 2025 IEEE Congress on Evolutionary Computation (CEC 2025) ``CAAI-C``
 
 <span class='anchor' id='-grants'></span>
 # 💬 项目经历
-- *2019.04 ~ 2022.12* 国家自然科学基金（面上项目）基于自适应演化计算的大规模特征选择研究
-- *2024.01 ~ 2027.12* 国家自然科学基金（面上项目）基于高效代理模型的多目标多任务演化深层神经网络研究
+- *2024.01 ~ 2027.12* 国家自然科学基金（面上项目）基于高效代理模型的多目标多任务演化深层神经网络研究（参与）
+- *2019.04 ~ 2022.12* 国家自然科学基金（面上项目）基于自适应演化计算的大规模特征选择研究（参与）
 - *2020.10 ~ 2022.03* 中国**集团公司第**研究所（横向课题）工业机器人协同开发平台集成服务总线开发（参与）
 - *2020.04 ~ 2020.10* 数据科学与智慧软件江苏省重点建设实验室（开放课题）基于演化计算的大规模无人机协同电子对抗关键技术 （参与）
 - *2017.04 ~ 2019.04* 大学生创新训练项目（学生团队项目）基于精准定位和安全扫码的共享单车计费系统（第一负责人）

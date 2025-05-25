@@ -1,7 +1,7 @@
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}
 {% else %}
-  {% if page.url == "/zh" %}
+  {% if page.url == "/zh.html" %}
     {% assign profile = site.data.profile_zh %}
     {% assign author = site.data.profile_zh.author %}
   {% else %}

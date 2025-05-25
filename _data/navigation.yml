@@ -15,10 +15,14 @@ main:
   - url: "#-achievements" 
     title_en: "Scientific Achievements"
     title_zh: "科研成果"
-    
+
   - url: "#-services" 
     title_en: "Services"
-    title_zh: "社会服务"
+    title_zh: "社会服务"    
+
+  - url: "#-grants" 
+    title_en: "Grants"
+    title_zh: "项目经历"
 
   - url: "#-skills"
     title_en: "Skills"
@@ -26,6 +30,6 @@ main:
 
   - url: "#-projects"
     title_en: "Projects"
-    title_zh: "项目经历"
+    title_zh: "开发经历"
 
 

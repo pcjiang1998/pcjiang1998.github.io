@@ -18,6 +18,9 @@ bing_site_verification   :  # get bing_site_verification from https://www.bing.c
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 
+baseurl: "/"                 # 子路径，若无则写空字符串 ""
+
+
 # Reading Files
 include:
   - .htaccess

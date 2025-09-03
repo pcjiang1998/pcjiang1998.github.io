@@ -38,6 +38,9 @@ jobs:
           source: ./
           destination: ./_site
 
+      - name: Upload artifact (For debug)
+        uses: actions/upload-pages-artifact@v3
+
       - name: Deploy to EdgeOne Pages
         run: npx edgeone pages deploy ./_site -n jpc-cv -t ${{ secrets.EDGEONE_API_TOKEN }} -e production 
         env:

@@ -60,7 +60,7 @@ My research direction is **Evolutionary Deep Learning**, mainly including **Neur
 
 
 ### Published
-- 📜 **Paper:** Yixia Zhang, Ferrante Neri, Xilu Wang, **Pengcheng Jiang**. Evolutionary channel pruning for StyleGANs[C]. *International Journal of Neural Systems* **(Accepted)**
+- 📜 **Paper:** Yixia Zhang, Ferrante Neri, Xilu Wang, **Pengcheng Jiang**, Yu Xue. Evolutionary channel pruning for StyleGANs[C]. *International Journal of Neural Systems* **(Accepted)**
 - 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrante Neri. Homogeneous architecture augmentation and confidence prediction for evolutionary neural architecture search[C]. *2025 IEEE Congress on Evolutionary Computation*. Hangzhou, China: IEEE, 2025: 1-8. [DOI: 10.1109/CEC65147.2025.11043091](https://doi.org/10.1109/CEC65147.2025.11043091) [[下载PDF]](./files/paper/CEC-2025.pdf) 	``CAAI-C``
 - 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrante Neri. Score predictor-assisted evolutionary neural architecture search[J]. *IEEE Transactions on Emerging Topics in Computational Intelligence*, 2025, Early Access. [DOI: 10.1109/TETCI.2025.3526179](https://doi.org/10.1109/TETCI.2025.3526179) [[Download PDF]](./files/paper/TETCI-2025.pdf) ``CAS Q2`` ``JCR Q1 (2024)`` ``IF: 5.3`` ``CAAI-B`` ``Cited: 10``
 - 📜 **Paper:** **Pengcheng Jiang**, Ferrante Neri, Yu Xue, Ujjwal Maulik. A generalised attention mechanism to enhance the accuracy performance of neural networks[J]. *International Journal of Neural Systems*, 2024, 34(12): 2450063. [DOI: 10.1142/S0129065724500631](https://doi.org/10.1142/S0129065724500631) [[Download PDF]](./files/paper/IJNS-2024.pdf) ``CAS Q2`` ``JCR Q1 (2024)`` ``IF: 6.6`` ``CAAI-B`` ``Cited: 9``

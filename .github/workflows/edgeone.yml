@@ -6,6 +6,9 @@ on:
     branches:
       - main
 
+  issues:
+    types: [opened, edited, deleted, pinned, unpinned, labeled, unlabeled, closed, reopened, assigned, unassigned]  # issues事件触发
+    
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -25,6 +28,10 @@ jobs:
   # Build job
   build-and-deploy:
     runs-on: ubuntu-latest
+    env:
+      EDGEONE_API_TOKEN: ${{ secrets.EDGEONE_API_TOKEN }}
+      PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+      # GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
